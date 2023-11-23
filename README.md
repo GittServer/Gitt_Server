@@ -26,7 +26,7 @@ Atualmente, estou focado em aprimorar minhas habilidades em CSS, Python & Criaç
   Assim como sensores que fazem a leitura do ambiente externo, possibilitando a IA saber o que está acontecendo ao seu redor.
 
   Desde a automação de processos de negócios, análise de dados, gerenciamento de projetos, até o aprimoramento da experiência do cliente, nossos sistemas tornam mais    fácil para você gerenciar suas tarefas e se concentrar em outras coisas importantes.
-  
+##  
 - [Karen-Intel. Artificial](https://www.youtube.com/channel/UCno6xFnMhesQarJX6qEOqpg): Esta é a mais nova [IA](https://pt.wikipedia.org/wiki/Intelig%C3%AAncia_artificial#) (Inteligência Artificial) que estou desenvolvendo e como sua principal função temos a de Gerenciar e Controlar nossas Automações Residenciais, como se fosse uma espécie de [JARVIS](https://pt.wikipedia.org/wiki/J.A.R.V.I.S.#) do Homem de Ferro.
 
   Karen-IA Funções:
