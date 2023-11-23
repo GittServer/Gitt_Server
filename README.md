@@ -38,7 +38,7 @@ Atualmente, estou focado em aprimorar minhas habilidades em Python & Criação d
   - Tudo isso é controlado através de uma Interface Web simplificada [veja imagem](https://cdn.discordapp.com/attachments/1058257537377517608/1177175265391149188/aaaaaaaaa.png?ex=65718ce6&is=655f17e6&hm=a61624c51459089e4be646975d3b9bc070b8ae87d61a7f4db4ee618efe1d0673&), onde você pode usar botões e/ou comandos de voz para controlar o sistema.
   - ############### (Sendo atualizadas em breve...)
 
-- [Bots Discord](https://www.google.com/search?client=firefox-b-d&q=bot+discord+o+que+%C3%A9): Tenho atualmente tenho mais de 13 Bots para Discord criados, sendo os principais esses da imagem abaixo: 
+- [Bots Discord](https://www.google.com/search?client=firefox-b-d&q=bot+discord+o+que+%C3%A9): Tenho atualmente mais de 13 Bots para Discord criados, alguns foram vendidos, sendo os principais esses da imagem abaixo: 
 
 ![Lucas Ávila](https://scontent.xx.fbcdn.net/v/t1.15752-9/403415199_703866808352495_2547764637067737709_n.png?stp=dst-png_p403x403&_nc_cat=107&ccb=1-7&_nc_sid=510075&_nc_ohc=bVy_7i0HhuoAX9D-C7H&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQ7HstbPFZq02kSbKy3Sfek70mufzQgKEO81y3UuxNWNw&oe=65864262)    
 
