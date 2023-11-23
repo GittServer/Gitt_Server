@@ -10,7 +10,7 @@ Atualmente, estou focado em aprimorar minhas habilidades em Python & Criação d
 ✅ Html / Javascript / Python / PHP / Dev Web / No Code / C++ / Dev Bot / Eletrônica / I.A. & Automação. 
 
 - Desenvolvimento de circuitos eletrônicos e sistemas.
-- Desenvolvimento Front-End: HTML, CSS.
+- Desenvolvimento Front-End: HTML, Javascript.
 - Desenvolvimento Back-End: Javascript, PHP.
 - Linguagens de Programação: JS, C++, PHP, Python.
 - Banco de Dados: SQL (phpMyAdmin).
@@ -43,20 +43,29 @@ Atualmente, estou focado em aprimorar minhas habilidades em Python & Criação d
 ![Lucas Ávila](https://scontent.xx.fbcdn.net/v/t1.15752-9/403415199_703866808352495_2547764637067737709_n.png?stp=dst-png_p403x403&_nc_cat=107&ccb=1-7&_nc_sid=510075&_nc_ohc=bVy_7i0HhuoAX9D-C7H&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQ7HstbPFZq02kSbKy3Sfek70mufzQgKEO81y3UuxNWNw&oe=65864262)    
 
 - [Bot Karen-IA](https://eletro-tech-shop.vercel.app/#karen): A Karen é um assistente que atualmente está disponível em nosso servidor discord.
+  
 Ela tem as funções de responder quando você lhe perguntar algo, sendo que a cada nova mensagem ela aprende com você e com os usuários.
+
 Por exemplo você pede pra ela guardar algo em sua memória, aprender algo novo, uma nova frase, pergunta ou resposta, e ela faz!
+
 Ela envia e-mails, pode fazer pesquisas online, pesquisar o clima em tempo real.
 Faz a consulta de quando o membro X entrou no servidor. Pesquisando e lhe mostrando cargos dos usuários. Ela pode traduzir textos, lhe mostrar a data e a hora exatas e muito mais!
+
 E ela tem em seu script um jogo de cartas, chamado Battle Deck, onde dois membros do server poderão duelar, usando cartas de monstros, itens mágicos e criaturas místicas.
 É pura diversão!
 
 - [Verify Bot](https://eletro-tech-shop.vercel.app/#verify): Verify literalmente é a cereja do bolo dos nossos bots, pois ele pode fazer muito mais do que a Karen.
 Ele foi criado para controlar um outro dos nossos serviços que disponibilizamos.
+
 O Verify-Bot é um sistema de gerenciamento e controle de automação residencial e automação industrial junto da [Karen-IA](https://www.youtube.com/channel/UCno6xFnMhesQarJX6qEOqpg), com ele é possível receber e enviar comandos, dados e pacotes (payloads) para seu sistema de automação.
 Tudo remotamente através da internet de qualquer lugar do mundo.
+
 Com ele é possível definir datas e horários para que certos eventos aconteçam de forma autônoma e sem erros. É possível também usar o menu para ativar, editar e cancelar os eventos, possuindo um comando de status onde aparece quais são os eventos ativos.
+
 Ele envia e-mails personalizados, faz pesquisas online, do clima, da hora, da data, e até da programação dos seus canais de tv favoritos.
+
 Assim como ele tem um sofisticado sistema de segurança onde somente os usuários cadastrados e com senha poderão o usar e acessar seu menu.
+
 Verify é um ótimo sistema pois ele tem suporte para gerenciar mais de uma automação por vez! 
 
 ## Me Encontre Online:
