@@ -2,8 +2,8 @@
 
 ![Lucas Ávila](https://scontent.xx.fbcdn.net/v/t1.15752-9/403404043_1700758940430084_3421224352020879432_n.jpg?stp=dst-jpg_s403x403&_nc_cat=110&ccb=1-7&_nc_sid=510075&_nc_ohc=6Eh32Om4OaAAX-KgtWK&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQQhwbdUxUaAxtXTBJXmcXhfx7HEQvOcVPNSAO3fZWIiA&oe=658654D6)
 
-Olá! 👋 Eu sou o Lucas Ávila, sei Eletrônica & Programação com habilidades tanto em desenvolvimento de circuitos, quanto em programação: front-end & back-end. 
-Atualmente, estou focado em aprimorar minhas habilidades em Python & Criação de Sistemas JS.
+Olá! 👋 Eu sou o Lucas Ávila, sei Eletrônica & Programação com habilidades tanto em desenvolvimento de circuitos, quanto em programação: back-end & front-end. 
+Atualmente, estou focado em aprimorar minhas habilidades em Python & Criação de Sistemas Web.
 
 ## Habilidades:
 
@@ -20,14 +20,18 @@ Atualmente, estou focado em aprimorar minhas habilidades em Python & Criação d
 
 - [Automação Residencial](https://www.youtube.com/channel/UCno6xFnMhesQarJX6qEOqpg): Projeto principal, onde desenvolvi um sistema completo de Automação Residencial personalizado que serve tanto para controle e gerenciamento de sua casa, como também para todas as áreas e setores do seu negócio.
 
-  Esses sistemas permitem que tarefas diárias, semanais ou anuais, sejam executadas com eficiência e precisão de acordo com o horário e a data que o usuário escolher,   eliminando a necessidade de intervenção manual.
+  Esses sistemas permitem que tarefas diárias, semanais ou anuais, sejam executadas com eficiência e precisão de acordo com o horário e a data que o usuário escolher,   eliminando a necessidade de intervenção manual, pois possui uma [IA](https://pt.wikipedia.org/wiki/Intelig%C3%AAncia_artificial#) para gerenciamento das suas funções de automação.
+
+  Assim como sensores que fazem a leitura do ambiente externo, possibilitando a IA saber o que está acontecendo ao seu redor.
 
   Desde a automação de processos de negócios, análise de dados, gerenciamento de projetos, até o aprimoramento da experiência do cliente, nossos sistemas tornam mais    fácil para você gerenciar suas tarefas e se concentrar em outras coisas importantes.
   
-- [Projeto Karen-IA](https://www.youtube.com/channel/UCno6xFnMhesQarJX6qEOqpg): Esta é a mais nova IA (Inteligência Artificial) que estou desenvolvendo e como sua principal função temos a de Gerenciar e Controlar nossas Automações Residenciais, como se fosse uma espécie de [JARVIS](https://pt.wikipedia.org/wiki/J.A.R.V.I.S.#).
+- [Projeto Karen-IA](https://www.youtube.com/channel/UCno6xFnMhesQarJX6qEOqpg): Esta é a mais nova [IA](https://pt.wikipedia.org/wiki/Intelig%C3%AAncia_artificial#) (Inteligência Artificial) que estou desenvolvendo e como sua principal função temos a de Gerenciar e Controlar nossas Automações Residenciais, como se fosse uma espécie de [JARVIS](https://pt.wikipedia.org/wiki/J.A.R.V.I.S.#) do Homem de Ferro.
 
-  Funções:
-  - ############### (Sendo atualizadas em breve...)
+  Karen-IA Funções:
+  - Fazer a leitura e o controle dos sensores ligados a sua Automação Residencial.
+  - Auxiliar em decisões tomadas enquanto você está ocupado ou fora de casa, por exemplo: quando escurecer a [Karen-IA](https://www.youtube.com/channel/UCno6xFnMhesQarJX6qEOqpg) liga as luzes e fecha as cortinas de casa.
+  - Com ela é possivel controlar de qualquer lugar do mundo sua automação, usando um sofisticado sistema que desenvolvemos usando uma tecnologia chamada AIW (Anywere In World).
   - ############### (Sendo atualizadas em breve...)
   - ############### (Sendo atualizadas em breve...)
 
