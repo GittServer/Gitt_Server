@@ -1,7 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head><title>L.A Perfil Web</title></head>
-
 # Lucas Ávila - Perfil de Desenvolvedor
 
 <a href="https://scontent.xx.fbcdn.net/v/t1.15752-9/403404043_1700758940430084_3421224352020879432_n.jpg?stp=dst-jpg_s403x403&_nc_cat=110&ccb=1-7&_nc_sid=510075&_nc_ohc=6Eh32Om4OaAAX-KgtWK&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQQhwbdUxUaAxtXTBJXmcXhfx7HEQvOcVPNSAO3fZWIiA&oe=658654D6">
