@@ -1,23 +1,30 @@
-# Luiz Developer. - Perfil de Desenvolvedor
+# Lucas Ávila. - Perfil de Desenvolvedor
 
-![Luiz Developer](https://i.imgur.com/SiQoZrc.jpg)
+![Lucas Ávila](https://avatars.githubusercontent.com/u/104231713?v=4)
 
-Olá! 👋 Eu sou o Luiz Eduardo, também conhecido como Luiz Developer. Sou um entusiasta da programação com habilidades tanto em desenvolvimento front-end quanto back-end. Atualmente, estou focado em aprimorar minhas habilidades em Python.
+Olá! 👋 Eu sou o Lucas Ávila, sei Eletrônica & Programação com habilidades tanto em desenvolvimento de circuitos, quanto em programação: front-end & back-end. Atualmente, estou focado em aprimorar minhas habilidades em Python & Criação de Sistemas JS.
 
-## Habilidades
+## Habilidades:
 
-- Desenvolvimento Front-End: HTML, CSS, JavaScript, React
-- Desenvolvimento Back-End: Node.js, Express.js
-- Linguagens de Programação: Python (em processo de aprendizado)
-- Banco de Dados: SQL, MongoDB
-- Controle de Versão: Git
+✅ Html / Javascript / Python / Dev Web / C++ / Dev Bot / Eletrônica / I.A. & Automação. 
 
-## Projetos Destacados
+- Desenvolvimento Front-End: HTML, CSS.
+- Desenvolvimento Back-End: Javascript, PHP.
+- Linguagens de Programação: JS, C++, Python.
+- Banco de Dados: SQL.
+- Controle de Versão: Git.
 
-- [Automatização de Mensagens](https://github.com/luizdeveloperr ): Projeto privado porém resumidamente ele é um script de automatização de mensagens para WhatsApp e Telegram.
-- [Kyou Plus+ Website](https://github.com/KyouPlus_Website): Este é o site oficial do bot "Kyou Plus+" que participei no desenvolvimento do front-end principalmente.
+## Projetos Destacados:
 
-## Me Encontre Online
+- [Automação Residencial](https://github.com/GittServer): Projeto principal, onde desenvolvi um sistema completo de Automação Residencial personalizado que serve tanto para controle e gerenciamento de sua casa, como também para todas as áreas e setores do seu negócio.
+
+Esses sistemas permitem que tarefas diárias, semanais ou anuais, sejam executadas com eficiência e precisão de acordo com o horário e a data que o usuário escolher, eliminando a necessidade de intervenção manual.
+
+Desde a automação de processos de negócios, análise de dados, gerenciamento de projetos, até o aprimoramento da experiência do cliente, nossos sistemas tornam mais fácil para você gerenciar suas tarefas e se concentrar em outras coisas importantes.
+  
+- [Projeto Karen-IA](https://github.com/GittServer): Esta é a mais nova IA (Inteligência Artificial) que estamos desenvolvendo e como sua principal função temos a de Gerenciar e Controlar nossas Automações Residenciais.
+
+## Me Encontre Online:
 
 - [LinkedIn](https://linkedin.com)
 - [GitHub](https://github.com/luizdeveloperr)
