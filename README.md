@@ -2,7 +2,8 @@
 
 ![Lucas Ávila](https://avatars.githubusercontent.com/u/104231713?v=4)
 
-Olá! 👋 Eu sou o Lucas Ávila, sei Eletrônica & Programação com habilidades tanto em desenvolvimento de circuitos, quanto em programação: front-end & back-end. Atualmente, estou focado em aprimorar minhas habilidades em Python & Criação de Sistemas JS.
+Olá! 👋 Eu sou o Lucas Ávila, sei Eletrônica & Programação com habilidades tanto em desenvolvimento de circuitos, quanto em programação: front-end & back-end. 
+Atualmente, estou focado em aprimorar minhas habilidades em Python & Criação de Sistemas JS.
 
 ## Habilidades:
 
@@ -26,10 +27,10 @@ Desde a automação de processos de negócios, análise de dados, gerenciamento 
 
 ## Me Encontre Online:
 
-- [Facebook Page](facebook.com/adtbr.web.shooter.project)
+- [Facebook Page](https://facebook.com/adtbr.web.shooter.project)
 - [GitHub](https://github.com/GittServer/Gitt_Server#readme)
-- [Messenger](m.me/adtbr.web.shooter.project)
-- [Instagram](instagram.com/eletro.tech.shop)
+- [Messenger](https://m.me/adtbr.web.shooter.project)
+- [Instagram](https://instagram.com/eletro.tech.shop)
 
 Fique à vontade para explorar meus repositórios e projetos. Se quiser entrar em contato, não hesite em me enviar uma mensagem!
 
