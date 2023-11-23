@@ -3,14 +3,14 @@
 ![Lucas Ávila](https://scontent.xx.fbcdn.net/v/t1.15752-9/403404043_1700758940430084_3421224352020879432_n.jpg?stp=dst-jpg_s403x403&_nc_cat=110&ccb=1-7&_nc_sid=510075&_nc_ohc=6Eh32Om4OaAAX-KgtWK&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQQhwbdUxUaAxtXTBJXmcXhfx7HEQvOcVPNSAO3fZWIiA&oe=658654D6)
 
 Olá! 👋 Eu sou o Lucas Ávila, sei Eletrônica & Programação com habilidades tanto em desenvolvimento de circuitos, quanto em programação: back-end & front-end. 
-Atualmente, estou focado em aprimorar minhas habilidades em Python & Criação de Sistemas Web.
+Atualmente, estou focado em aprimorar minhas habilidades em CSS, Python & Criação de Sistemas Web.
 
 ## Habilidades:
 
 ✅ Html / Javascript / Python / PHP / Dev Web / No Code / C++ / Dev Bot / Eletrônica / I.A. & Automação. 
 
 - Desenvolvimento de circuitos eletrônicos e sistemas.
-- Desenvolvimento Front-End: HTML, Javascript.
+- Desenvolvimento Front-End: HTML, CSS, Javascript.
 - Desenvolvimento Back-End: Javascript, PHP.
 - Linguagens de Programação: JS, C++, PHP, Python.
 - Banco de Dados: SQL (phpMyAdmin).
@@ -26,7 +26,7 @@ Atualmente, estou focado em aprimorar minhas habilidades em Python & Criação d
 
   Desde a automação de processos de negócios, análise de dados, gerenciamento de projetos, até o aprimoramento da experiência do cliente, nossos sistemas tornam mais    fácil para você gerenciar suas tarefas e se concentrar em outras coisas importantes.
   
-- [Projeto Karen-IA](https://www.youtube.com/channel/UCno6xFnMhesQarJX6qEOqpg): Esta é a mais nova [IA](https://pt.wikipedia.org/wiki/Intelig%C3%AAncia_artificial#) (Inteligência Artificial) que estou desenvolvendo e como sua principal função temos a de Gerenciar e Controlar nossas Automações Residenciais, como se fosse uma espécie de [JARVIS](https://pt.wikipedia.org/wiki/J.A.R.V.I.S.#) do Homem de Ferro.
+- [Karen-Intel. Artificial](https://www.youtube.com/channel/UCno6xFnMhesQarJX6qEOqpg): Esta é a mais nova [IA](https://pt.wikipedia.org/wiki/Intelig%C3%AAncia_artificial#) (Inteligência Artificial) que estou desenvolvendo e como sua principal função temos a de Gerenciar e Controlar nossas Automações Residenciais, como se fosse uma espécie de [JARVIS](https://pt.wikipedia.org/wiki/J.A.R.V.I.S.#) do Homem de Ferro.
 
   Karen-IA Funções:
   - Fazer a leitura e o controle dos sensores ligados a sua Automação Residencial.
@@ -38,7 +38,7 @@ Atualmente, estou focado em aprimorar minhas habilidades em Python & Criação d
   - Tudo isso é controlado através de uma Interface Web simplificada [veja imagem](https://cdn.discordapp.com/attachments/1058257537377517608/1177175265391149188/aaaaaaaaa.png?ex=65718ce6&is=655f17e6&hm=a61624c51459089e4be646975d3b9bc070b8ae87d61a7f4db4ee618efe1d0673&), onde você pode usar botões e/ou comandos de voz para controlar o sistema.
   - ############### (Sendo atualizadas em breve...)
 
-- [Bots Discord](https://www.google.com/search?client=firefox-b-d&q=bot+discord+o+que+%C3%A9): Tenho atualmente mais de 13 Bots para Discord criados, alguns foram vendidos, sendo os principais esses da imagem abaixo: 
+- [Bots para Discord](https://www.google.com/search?client=firefox-b-d&q=bot+discord+o+que+%C3%A9): Tenho atualmente mais de 13 Bots para Discord criados, alguns foram vendidos, sendo os principais esses da imagem abaixo: 
 
 ![Lucas Ávila](https://scontent.xx.fbcdn.net/v/t1.15752-9/403415199_703866808352495_2547764637067737709_n.png?stp=dst-png_p403x403&_nc_cat=107&ccb=1-7&_nc_sid=510075&_nc_ohc=bVy_7i0HhuoAX9D-C7H&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQ7HstbPFZq02kSbKy3Sfek70mufzQgKEO81y3UuxNWNw&oe=65864262)    
 
@@ -75,6 +75,7 @@ Verify é um ótimo sistema pois ele tem suporte para gerenciar mais de uma auto
 - [Messenger - Atirador de Teia Brasil](https://m.me/adtbr.web.shooter.project)
 - [Youtube - Atirador de Teia Brasil](https://www.youtube.com/channel/UCno6xFnMhesQarJX6qEOqpg)
 - [Instagram - Eletro Tech Shop](https://instagram.com/eletro.tech.shop)
+- [Discord ☁️ The Raven Host: Hospede seu Bot & Códigos Python ♾️](https://discord.gg/G3rK97EGGY)
 
 Fique à vontade para explorar meus repositórios e projetos.
 Se quiser entrar em contato, não hesite em me enviar uma mensagem por um dos links acima!
