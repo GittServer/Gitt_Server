@@ -33,7 +33,7 @@ Atualmente, estou focado em aprimorar minhas habilidades em Python & Criação d
 
 - [Bots Discord](https://eletro-tech-shop.vercel.app/): Tenho atualmente tenho mais de 13 Bots para Discord criados, sendo os principais esses da imagem abaixo: 
 
-  (https://scontent.xx.fbcdn.net/v/t1.15752-9/403415199_703866808352495_2547764637067737709_n.png?stp=dst-png_p403x403&_nc_cat=107&ccb=1-7&_nc_sid=510075&_nc_ohc=bVy_7i0HhuoAX9D-C7H&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQ7HstbPFZq02kSbKy3Sfek70mufzQgKEO81y3UuxNWNw&oe=65864262)      
+![Lucas Ávila](https://scontent.xx.fbcdn.net/v/t1.15752-9/403415199_703866808352495_2547764637067737709_n.png?stp=dst-png_p403x403&_nc_cat=107&ccb=1-7&_nc_sid=510075&_nc_ohc=bVy_7i0HhuoAX9D-C7H&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQ7HstbPFZq02kSbKy3Sfek70mufzQgKEO81y3UuxNWNw&oe=65864262)      
 
 ## Me Encontre Online:
 
@@ -44,7 +44,7 @@ Atualmente, estou focado em aprimorar minhas habilidades em Python & Criação d
 
 Fique à vontade para explorar meus repositórios e projetos.
 Se quiser entrar em contato, não hesite em me enviar uma mensagem por um dos links acima!
-(https://avatars.githubusercontent.com/u/104231713?v=4)
+![Lucas Ávila](https://avatars.githubusercontent.com/u/104231713?v=4)
 
 </body>
 </html>
