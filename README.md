@@ -1,15 +1,9 @@
 # Lucas Ávila - Perfil de Desenvolvedor
 
 <a href="https://www.google.com/">
-    <img src="../imagens/minha_imagem.jpg" />
-</a>
+    <img src="../imagens/minha_imagem.jpg"/></a>
 
-<img
-  src="(https://cdn.discordapp.com/attachments/1058257537377517608/1177190366156423178/llll.png?ex=65719af6&is=655f25f6&hm=ce38a1d94f3acb3d35276e6a489d4cd02e03ab2520d1caafe50d154c8576a7f3&)"
-  alt="Me"
-  width="200"
-  height="200"
-  title="Me" />
+<img src="https://cdn.discordapp.com/attachments/1058257537377517608/1177190366156423178/llll.png?ex=65719af6&is=655f25f6&hm=ce38a1d94f3acb3d35276e6a489d4cd02e03ab2520d1caafe50d154c8576a7f3&" alt="Me" width="200" height="200" title="Me"/>
 
 ![Lucas Ávila](https://cdn.discordapp.com/attachments/1058257537377517608/1177190366156423178/llll.png?ex=65719af6&is=655f25f6&hm=ce38a1d94f3acb3d35276e6a489d4cd02e03ab2520d1caafe50d154c8576a7f3&)
 
