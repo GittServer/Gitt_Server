@@ -1,6 +1,6 @@
 # Lucas Ávila - Perfil de Desenvolvedor
 
-![Lucas Ávila](https://scontent.fpoa46-1.fna.fbcdn.net/v/t39.30808-6/328348771_727272662352053_3391870648280424655_n.jpg)
+![Lucas Ávila](https://scontent.xx.fbcdn.net/v/t1.15752-9/403404043_1700758940430084_3421224352020879432_n.jpg?stp=dst-jpg_s403x403&_nc_cat=110&ccb=1-7&_nc_sid=510075&_nc_ohc=6Eh32Om4OaAAX-KgtWK&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQQhwbdUxUaAxtXTBJXmcXhfx7HEQvOcVPNSAO3fZWIiA&oe=658654D6)
 
 Olá! 👋 Eu sou o Lucas Ávila, sei Eletrônica & Programação com habilidades tanto em desenvolvimento de circuitos, quanto em programação: front-end & back-end. 
 Atualmente, estou focado em aprimorar minhas habilidades em Python & Criação de Sistemas JS.
