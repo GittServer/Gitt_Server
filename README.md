@@ -31,8 +31,11 @@ Atualmente, estou focado em aprimorar minhas habilidades em Python & Criação d
   Karen-IA Funções:
   - Fazer a leitura e o controle dos sensores ligados a sua Automação Residencial.
   - Auxiliar em decisões tomadas enquanto você está ocupado ou fora de casa, por exemplo: quando escurecer a [Karen-IA](https://www.youtube.com/channel/UCno6xFnMhesQarJX6qEOqpg) liga as luzes e fecha as cortinas de casa.
-  - Com ela é possivel controlar de qualquer lugar do mundo sua automação, usando um sofisticado sistema que desenvolvemos usando uma tecnologia chamada AIW (Anywere In World).
-  - ############### (Sendo atualizadas em breve...)
+  - Com ela é possivel controlar de qualquer lugar do mundo sua automação, usando um sofisticado sistema que desenvolvemos usando uma tecnologia chamada AIW (Anywhere In World).
+  - Veja exemplos em meu canal do [Youtube](https://www.youtube.com/channel/UCno6xFnMhesQarJX6qEOqpg) onde mostro a [Karen-IA](https://www.youtube.com/channel/UCno6xFnMhesQarJX6qEOqpg) fazendo o controle de minha Automação Residencial pessoal, em minha casa, ligando e desligando luzes, TV, ventiladores, ar condicionado e muito mais.
+  - Obtendo também dados e informações, diretamente de seu DB - Banco de Dados Online.
+  - Podendo lhe auxiliar em questões matemáticas, lhe falando, as horas, qual é o dia da semana, data atual, buscando informações diretamente na internet.
+  - Tudo isso é controlado através de uma Interface Web [veja imagem](https://cdn.discordapp.com/attachments/1058257537377517608/1177175265391149188/aaaaaaaaa.png?ex=65718ce6&is=655f17e6&hm=a61624c51459089e4be646975d3b9bc070b8ae87d61a7f4db4ee618efe1d0673&), onde você pode usar botões e/ou comandos de voz para controlar o sistema.
   - ############### (Sendo atualizadas em breve...)
 
 - [Bots Discord](https://www.google.com/search?client=firefox-b-d&q=bot+discord+o+que+%C3%A9): Tenho atualmente tenho mais de 13 Bots para Discord criados, sendo os principais esses da imagem abaixo: 
