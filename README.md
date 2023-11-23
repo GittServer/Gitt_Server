@@ -1,4 +1,6 @@
-<title>L.A Perfil Web</title>
+<!DOCTYPE html>
+<html>
+<head><title>L.A Perfil Web</title></head>
 
 # Lucas Ávila - Perfil de Desenvolvedor
 
