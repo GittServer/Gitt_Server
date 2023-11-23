@@ -1,15 +1,7 @@
 # Lucas Ávila - Perfil de Desenvolvedor
 
-# ERRO
-
-<a href="https://www.google.com/">
+<a href="https://scontent.xx.fbcdn.net/v/t1.15752-9/403404043_1700758940430084_3421224352020879432_n.jpg?stp=dst-jpg_s403x403&_nc_cat=110&ccb=1-7&_nc_sid=510075&_nc_ohc=6Eh32Om4OaAAX-KgtWK&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQQhwbdUxUaAxtXTBJXmcXhfx7HEQvOcVPNSAO3fZWIiA&oe=658654D6">
     <img src="https://scontent.xx.fbcdn.net/v/t1.15752-9/403404043_1700758940430084_3421224352020879432_n.jpg?stp=dst-jpg_s403x403&_nc_cat=110&ccb=1-7&_nc_sid=510075&_nc_ohc=6Eh32Om4OaAAX-KgtWK&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQQhwbdUxUaAxtXTBJXmcXhfx7HEQvOcVPNSAO3fZWIiA&oe=658654D6" width="200" height="200"/></a> 
-
-<img src="https://cdn.discordapp.com/attachments/1058257537377517608/1177190366156423178/llll.png?ex=65719af6&is=655f25f6&hm=ce38a1d94f3acb3d35276e6a489d4cd02e03ab2520d1caafe50d154c8576a7f3&" alt="Me" width="200" height="200" title="Me"/>
-
-![Lucas Ávila](https://cdn.discordapp.com/attachments/1058257537377517608/1177190366156423178/llll.png?ex=65719af6&is=655f25f6&hm=ce38a1d94f3acb3d35276e6a489d4cd02e03ab2520d1caafe50d154c8576a7f3&)
-
-![Lucas Ávila](https://scontent.xx.fbcdn.net/v/t1.15752-9/403404043_1700758940430084_3421224352020879432_n.jpg?stp=dst-jpg_s403x403&_nc_cat=110&ccb=1-7&_nc_sid=510075&_nc_ohc=6Eh32Om4OaAAX-KgtWK&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQQhwbdUxUaAxtXTBJXmcXhfx7HEQvOcVPNSAO3fZWIiA&oe=658654D6)
 
 Olá! 👋 Eu sou o Lucas Ávila, sei Eletrônica & Programação com habilidades tanto em desenvolvimento de circuitos, quanto em programação: back-end & front-end. 
 Atualmente, estou focado em aprimorar minhas habilidades em CSS, Python & Criação de Sistemas Web.
