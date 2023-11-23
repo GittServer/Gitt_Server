@@ -9,6 +9,7 @@ Atualmente, estou focado em aprimorar minhas habilidades em Python & Criação d
 
 ✅ Html / Javascript / Python / Dev Web / C++ / Dev Bot / Eletrônica / I.A. & Automação. 
 
+- Desenvolvimento de circuitos eletrônicos e sistemas.
 - Desenvolvimento Front-End: HTML, CSS.
 - Desenvolvimento Back-End: Javascript, PHP.
 - Linguagens de Programação: JS, C++, Python.
@@ -19,20 +20,25 @@ Atualmente, estou focado em aprimorar minhas habilidades em Python & Criação d
 
 - [Automação Residencial](https://github.com/GittServer/Gitt_Server#readme): Projeto principal, onde desenvolvi um sistema completo de Automação Residencial personalizado que serve tanto para controle e gerenciamento de sua casa, como também para todas as áreas e setores do seu negócio.
 
-Esses sistemas permitem que tarefas diárias, semanais ou anuais, sejam executadas com eficiência e precisão de acordo com o horário e a data que o usuário escolher, eliminando a necessidade de intervenção manual.
+  Esses sistemas permitem que tarefas diárias, semanais ou anuais, sejam executadas com eficiência e precisão de acordo com o horário e a data que o usuário escolher,   eliminando a necessidade de intervenção manual.
 
-Desde a automação de processos de negócios, análise de dados, gerenciamento de projetos, até o aprimoramento da experiência do cliente, nossos sistemas tornam mais fácil para você gerenciar suas tarefas e se concentrar em outras coisas importantes.
+  Desde a automação de processos de negócios, análise de dados, gerenciamento de projetos, até o aprimoramento da experiência do cliente, nossos sistemas tornam mais    fácil para você gerenciar suas tarefas e se concentrar em outras coisas importantes.
   
-- [Projeto Karen-IA](https://github.com/GittServer/Gitt_Server#readme): Esta é a mais nova IA (Inteligência Artificial) que estamos desenvolvendo e como sua principal função temos a de Gerenciar e Controlar nossas Automações Residenciais.
+- [Projeto Karen-IA](https://github.com/GittServer/Gitt_Server#readme): Esta é a mais nova IA (Inteligência Artificial) que estou desenvolvendo e como sua principal função temos a de Gerenciar e Controlar nossas Automações Residenciais.
+
+  Funções:
+  - ###############
+  - ###############
+  - ###############
 
 ## Me Encontre Online:
 
-- [Facebook Page](https://facebook.com/adtbr.web.shooter.project)
-- [GitHub](https://github.com/GittServer/Gitt_Server#readme)
-- [Messenger](https://m.me/adtbr.web.shooter.project)
-- [Instagram](https://instagram.com/eletro.tech.shop)
+- [Facebook Page - Atirador de Teia Brasil](https://facebook.com/adtbr.web.shooter.project)
+- [Este GitHub](https://github.com/GittServer/Gitt_Server#readme)
+- [Messenger - Atirador de Teia Brasil](https://m.me/adtbr.web.shooter.project)
+- [Instagram - Eletro Tech Shop](https://instagram.com/eletro.tech.shop)
 
-Fique à vontade para explorar meus repositórios e projetos. Se quiser entrar em contato, não hesite em me enviar uma mensagem!
+Fique à vontade para explorar meus repositórios e projetos. Se quiser entrar em contato, não hesite em me enviar uma mensagem por um dos links acima!
 
 </body>
 </html>
