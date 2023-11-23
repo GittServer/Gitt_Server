@@ -72,6 +72,10 @@ Assim como ele tem um sofisticado sistema de segurança onde somente os usuário
 
 Verify é um ótimo sistema pois ele tem suporte para gerenciar mais de uma automação por vez! 
 
+## GPT_BOT:
+- [GPT_Bot](https://eletro-tech-shop.vercel.app/#gpt): Esse bot é uma boa implementação entre Discord e o tão famoso Chat GPT que conhecemos.
+Com esse bot você e os usuários do seu Discord poderão fazer perguntas e pesquisas online diretamente para a IA GPT da OpenAI. 
+
 ## Me Encontre Online:
 
 - [Facebook Page - Atirador de Teia Brasil](https://facebook.com/adtbr.web.shooter.project)
