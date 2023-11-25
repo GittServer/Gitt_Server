@@ -81,6 +81,7 @@ Com esse bot você e os usuários do seu Discord poderão fazer perguntas e pesq
 
 - [Facebook Page - Atirador de Teia Brasil](https://facebook.com/adtbr.web.shooter.project)
 - [Este GitHub - Perfil](https://github.com/GittServer/Gitt_Server#readme)
+- [ayo.so/lucas_avila](https://ayo.so/lucas_avila)
 - [Messenger - Atirador de Teia Brasil](https://m.me/adtbr.web.shooter.project)
 - [Youtube - Atirador de Teia Brasil](https://www.youtube.com/channel/UCno6xFnMhesQarJX6qEOqpg)
 - [Instagram - Eletro Tech Shop](https://instagram.com/eletro.tech.shop)
