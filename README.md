@@ -83,7 +83,7 @@ Com esse bot você e os usuários do seu Discord poderão fazer perguntas e pesq
 - [ayo.so/lucas_avila](https://ayo.so/lucas_avila)
 - [💬 Facebook Page - Atirador de Teia Brasil](https://facebook.com/adtbr.web.shooter.project)
 - [💬 Messenger - Atirador de Teia Brasil](https://m.me/adtbr.web.shooter.project)
-- [💬 Youtube - Atirador de Teia Brasil](https://www.youtube.com/channel/UCno6xFnMhesQarJX6qEOqpg)
+- [💬 Youtube - Atirador de Teia Brasil](https://www.youtube.com/channel/UCno6xFnMhesQarJX6qEOqpg) + 17 mil inscritos!
 
 ## Meus Serviços:  
 - [💬 Instagram - Eletro Tech Shop: Comércio de Eletrônicos, Arduino e Robótica.](https://instagram.com/eletro.tech.shop)
