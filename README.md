@@ -79,13 +79,16 @@ Com esse bot você e os usuários do seu Discord poderão fazer perguntas e pesq
 
 ## Me Encontre Online:
 
-- [Facebook Page - Atirador de Teia Brasil](https://facebook.com/adtbr.web.shooter.project)
 - [Este GitHub - Perfil](https://github.com/GittServer/Gitt_Server#readme)
 - [ayo.so/lucas_avila](https://ayo.so/lucas_avila)
+- [Facebook Page - Atirador de Teia Brasil](https://facebook.com/adtbr.web.shooter.project)
 - [Messenger - Atirador de Teia Brasil](https://m.me/adtbr.web.shooter.project)
 - [Youtube - Atirador de Teia Brasil](https://www.youtube.com/channel/UCno6xFnMhesQarJX6qEOqpg)
-- [Instagram - Eletro Tech Shop](https://instagram.com/eletro.tech.shop)
+
+## Meus Serviços:  
+- [Instagram - Eletro Tech Shop: Comércio de Eletrônicos](https://instagram.com/eletro.tech.shop)
 - [Discord ☁️ The Raven Host: Hospede seu Bot & Códigos Python ♾️](https://discord.gg/G3rK97EGGY)
+- [The Raven Host GitHub - Perfil](https://github.com/The-Raven-Host) <!-- Criado pelo ADM Host: (src = luizdeveloper) https://discord.com/channels/@me/1162077239328911461 -->
 
 Fique à vontade para explorar meus repositórios e projetos.
 Se quiser entrar em contato, não hesite em me enviar uma mensagem por um dos links acima!
