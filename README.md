@@ -89,7 +89,7 @@ Com esse bot você e os usuários do seu Discord poderão fazer perguntas e pesq
 - [💬 Instagram - Eletro Tech Shop: Comércio de Eletrônicos, Arduino e Robótica.](https://instagram.com/eletro.tech.shop)
 - [💬 Site - Eletro Tech Shop](https://eletrotechshop.mercadoshops.com.br/)
 
-- [💬 Discord ☁️ The Raven Host: Hospede seu Bot & Códigos Python ♾️](https://discord.gg/G3rK97EGGY)
+- [💬 Discord ☁️ The Raven Host: Hospede seu Bot & Códigos Python ♾️](https://discord.gg/5U2a6jehMh)
 - [Site ☁️ The Raven Host](https://sites.google.com/view/the-raven-host)
 - [The Raven Host GitHub - Perfil](https://github.com/The-Raven-Host) <!-- Criado pelo ADM Host: (src = luizdeveloper) https://discord.com/channels/@me/1162077239328911461 -->
 
