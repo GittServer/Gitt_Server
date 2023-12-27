@@ -1,7 +1,7 @@
 # Lucas Ávila - Perfil de Desenvolvedor
 
 <a href="https://scontent.xx.fbcdn.net/v/t1.15752-9/403404043_1700758940430084_3421224352020879432_n.jpg?stp=dst-jpg_s403x403&_nc_cat=110&ccb=1-7&_nc_sid=510075&_nc_ohc=6Eh32Om4OaAAX-KgtWK&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQQhwbdUxUaAxtXTBJXmcXhfx7HEQvOcVPNSAO3fZWIiA&oe=658654D6">
-    <img src="https://scontent.xx.fbcdn.net/v/t1.15752-9/403404043_1700758940430084_3421224352020879432_n.jpg?stp=dst-jpg_s403x403&_nc_cat=110&ccb=1-7&_nc_sid=510075&_nc_ohc=6Eh32Om4OaAAX-KgtWK&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQQhwbdUxUaAxtXTBJXmcXhfx7HEQvOcVPNSAO3fZWIiA&oe=658654D6" width="200" height="200"/></a> 
+    <img src="[https://scontent.xx.fbcdn.net/v/t1.15752-9/403404043_1700758940430084_3421224352020879432_n.jpg?stp=dst-jpg_s403x403&_nc_cat=110&ccb=1-7&_nc_sid=510075&_nc_ohc=6Eh32Om4OaAAX-KgtWK&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQQhwbdUxUaAxtXTBJXmcXhfx7HEQvOcVPNSAO3fZWIiA&oe=658654D6](https://scontent.fpoa46-1.fna.fbcdn.net/v/t39.30808-6/328348771_727272662352053_3391870648280424655_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=jXN-5plRm2YAX8xc7Hs&_nc_ht=scontent.fpoa46-1.fna&oh=00_AfDQNrQuXBPBfy_AnBXsz1qG3b9Y3Y5xgaut_Bj2N4f6Jg&oe=65922AB0)" width="200" height="200"/></a> 
 
 Olá! 👋 Eu sou o Lucas Ávila, sei Eletrônica & Programação com habilidades tanto em desenvolvimento de circuitos, quanto em programação: back-end & front-end. 
 Atualmente, estou focado em aprimorar minhas habilidades em CSS, Python & Criação de Sistemas Web.
