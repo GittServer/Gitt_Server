@@ -10,7 +10,7 @@ Atualmente, estou focado em aprimorar minhas habilidades em CSS, Python & Criaç
 
 ✅ Html / Javascript / Python / PHP / Dev Web / No Code / C++ / Dev Bot / Eletrônica / I.A. & Automação. 
 
-- Desenvolvimento de circuitos eletrônicos e sistemas.
+- Desenvolvimento de circuitos eletrônicos e sistemas [IOT](https://pt.wikipedia.org/wiki/Intelig%C3%AAncia_artificial#).
 - Desenvolvimento Front-End: HTML, CSS, Javascript.
 - Desenvolvimento Back-End: Javascript, PHP.
 - Linguagens de Programação: JS, C++, PHP, Python.
