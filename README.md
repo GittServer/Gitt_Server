@@ -33,7 +33,7 @@ Atualmente, estou focado em aprimorar minhas habilidades em CSS, Python & Criaç
 
 [](https://video.do.jarvis.salvo.no.link.facebook.com)
 
-  Karen-IA Funções:
+  ## Karen-IA Funções:
   - Fazer a leitura e o controle dos sensores ligados a sua Automação Residencial.
   - Auxiliar em decisões tomadas enquanto você está ocupado ou fora de casa, por exemplo: quando escurecer a [Karen-IA](https://www.youtube.com/channel/UCno6xFnMhesQarJX6qEOqpg) liga as luzes e fecha as cortinas de casa.
   - Com ela é possivel controlar de qualquer lugar do mundo sua automação, usando um sofisticado sistema que desenvolvemos usando uma tecnologia chamada AIW (Anywhere In World).
