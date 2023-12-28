@@ -3,19 +3,19 @@
 <a href="https://github.com/GittServer/Gitt_Server#readme">
     <img src="https://scontent.fpoa46-1.fna.fbcdn.net/v/t39.30808-6/328348771_727272662352053_3391870648280424655_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=jXN-5plRm2YAX8xc7Hs&_nc_ht=scontent.fpoa46-1.fna&oh=00_AfDQNrQuXBPBfy_AnBXsz1qG3b9Y3Y5xgaut_Bj2N4f6Jg&oe=65922AB0" width="200" height="200"/></a> 
 
-Olá! 👋 Eu sou o Lucas Ávila, sei Eletrônica & Programação com habilidades tanto em desenvolvimento de circuitos, quanto em programação: back-end & front-end. 
+**Oi!** 👋 Eu sou o Lucas Ávila, sei Eletrônica & Programação com habilidades tanto em desenvolvimento de circuitos, quanto em programação: back-end & front-end. 
 Atualmente, estou focado em aprimorar minhas habilidades em CSS, Python & Criação de Sistemas Web.
 
 ## Habilidades:
 
-✅ Html / Javascript / Python / PHP / Dev Web / No Code / C++ / Dev Bot / Eletrônica / I.A. & Automação. 
+✅ **Html / Javascript / Python / PHP / Dev Web / No Code / C++ / Dev Bot / Eletrônica / I.A. & Automação.**
 
 - Desenvolvimento de circuitos eletrônicos e sistemas [IOT](https://pt.wikipedia.org/wiki/Internet_das_coisas).
-- Desenvolvimento Front-End: HTML, CSS, Javascript.
-- Desenvolvimento Back-End: Javascript, PHP.
-- Linguagens de Programação: JS, C++, PHP, Python.
-- Banco de Dados: SQL (phpMyAdmin).
-- Controle de Versão: Git.
+- **Desenvolvimento Front-End:** HTML, CSS, Javascript.
+- **Desenvolvimento Back-End:** Javascript, PHP.
+- **Linguagens de Programação:** JS, C++, PHP, Python.
+- **Banco de Dados:** SQL (phpMyAdmin).
+- **Controle de Versão:** Git.
 
 ## Projetos Destacados:
 
@@ -30,7 +30,7 @@ Atualmente, estou focado em aprimorar minhas habilidades em CSS, Python & Criaç
 - [Karen-Intel. Artificial](https://www.youtube.com/channel/UCno6xFnMhesQarJX6qEOqpg): Esta é a mais nova [IA](https://pt.wikipedia.org/wiki/Intelig%C3%AAncia_artificial#) (Inteligência Artificial) que estou desenvolvendo e como sua principal função temos a de Gerenciar e Controlar nossas Automações Residenciais, como se fosse uma espécie de [JARVIS](https://pt.wikipedia.org/wiki/J.A.R.V.I.S.#) do Homem de Ferro.
 ![Video Avengers.mp4](https://www.facebook.com/lucas.avila.507/videos/1761930460897909)    
 
-[](https://www.facebook.com/lucas.avila.507/videos) [](https://video.do.jarvis.salvo.no.link.facebook.com)
+[](https://video.do.jarvis.salvo.no.link.facebook.com)
 
   Karen-IA Funções:
   - Fazer a leitura e o controle dos sensores ligados a sua Automação Residencial.
