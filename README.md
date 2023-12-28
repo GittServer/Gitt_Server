@@ -28,6 +28,9 @@ Atualmente, estou focado em aprimorar minhas habilidades em CSS, Python & Criaç
   Desde a automação de processos de negócios, análise de dados, gerenciamento de projetos, até o aprimoramento da experiência do cliente, nossos sistemas tornam mais    fácil para você gerenciar suas tarefas e se concentrar em outras coisas importantes.
 ##  
 - [Karen-Intel. Artificial](https://www.youtube.com/channel/UCno6xFnMhesQarJX6qEOqpg): Esta é a mais nova [IA](https://pt.wikipedia.org/wiki/Intelig%C3%AAncia_artificial#) (Inteligência Artificial) que estou desenvolvendo e como sua principal função temos a de Gerenciar e Controlar nossas Automações Residenciais, como se fosse uma espécie de [JARVIS](https://pt.wikipedia.org/wiki/J.A.R.V.I.S.#) do Homem de Ferro.
+![Video Avengers.mp4](https://www.facebook.com/lucas.avila.507/videos/1761930460897909)    
+
+[](https://www.facebook.com/lucas.avila.507/videos) [](https://video.do.jarvis.salvo.no.link.facebook.com)
 
   Karen-IA Funções:
   - Fazer a leitura e o controle dos sensores ligados a sua Automação Residencial.
