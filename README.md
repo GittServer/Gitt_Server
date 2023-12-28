@@ -9,14 +9,14 @@ Atualmente, estou focado em aprimorar minhas habilidades em CSS, Python & Criaç
 ## Habilidades:
 
 ✅ **Html / Javascript / Python / PHP / Dev Web / No Code / C++ / Dev Bot / Eletrônica / I.A. & Automação.**
-
+```
 - Desenvolvimento de circuitos eletrônicos e sistemas [IOT](https://pt.wikipedia.org/wiki/Internet_das_coisas).
 - **Desenvolvimento Front-End:** HTML, CSS, Javascript.
 - **Desenvolvimento Back-End:** Javascript, PHP.
 - **Linguagens de Programação:** JS, C++, PHP, Python.
 - **Banco de Dados:** SQL (phpMyAdmin).
 - **Controle de Versão:** Git.
-
+```
 ## Projetos Destacados:
 
 - [Automação Residencial](https://www.youtube.com/channel/UCno6xFnMhesQarJX6qEOqpg): Projeto principal, onde desenvolvi um sistema completo de Automação Residencial personalizado que serve tanto para controle e gerenciamento de sua casa, como também para todas as áreas e setores do seu negócio.
