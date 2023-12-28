@@ -38,6 +38,9 @@ Atualmente, estou focado em aprimorar minhas habilidades em CSS, Python & Criaç
   - Podendo lhe auxiliar em questões matemáticas, lhe falando, as horas, qual é o dia da semana, data atual, buscando informações diretamente na internet, respondendo a perguntas, etc.
   - Tudo isso é controlado através de uma Interface Web simplificada [veja imagem](https://cdn.discordapp.com/attachments/1058257537377517608/1177175265391149188/aaaaaaaaa.png?ex=65718ce6&is=655f17e6&hm=a61624c51459089e4be646975d3b9bc070b8ae87d61a7f4db4ee618efe1d0673&), ou uma Interface Web mais complexa [veja imagem](https://cdn.discordapp.com/attachments/1035003165491331114/1189782130742530088/iiiii.png?ex=659f69f5&is=658cf4f5&hm=684d4fd0582cb9b303f36afd784d77e9829f9cf4d8e4118082ffac99a7934ec7&), onde você pode usar botões e/ou comandos de voz para controlar o sistema.
   - [Interface Web v2.0 - Automação Residencial (Login!)](https://rede-externa.bubbleapps.io/version-test/home-login) 
+  ![Imagem Interface Web.png](https://cdn.discordapp.com/attachments/1035003165491331114/1189782130742530088/iiiii.png?ex=659f69f5&is=658cf4f5&hm=684d4fd0582cb9b303f36afd784d77e9829f9cf4d8e4118082ffac99a7934ec7&)    
+
+  [](https://discord.com/channels/1035003165042556989/1035003165491331114/1189782130922881124) [](https://imagem.interface.web.salva.no.link.facebook.discord.com)
   - ## Novas funções sendo atualizadas em breve...
 
 ## Mais Projetos:
