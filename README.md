@@ -44,6 +44,8 @@ Atualmente, estou focado em aprimorar minhas habilidades em CSS, Python & Criaç
 
 ![Imagem Meus Bots.png](https://scontent.fpoa46-1.fna.fbcdn.net/v/t39.30808-6/414012530_5288289807961964_262230620681058175_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=3635dc&_nc_ohc=gQ5HvU_FvNkAX-4bIAf&_nc_ht=scontent.fpoa46-1.fna&oh=00_AfBpcrucxNPqn5WPrrbocVkKlRlTS8fmlLYvywohjOqL_w&oe=65911537)    
 
+- [](https://www.facebook.com/lucas.avila.507/photos_by)
+
 ## Bot Karen-IA:
 - [Bot Karen-IA](https://eletro-tech-shop.vercel.app/#karen): A Karen é um assistente que atualmente está disponível em nosso servidor discord.
   
@@ -79,7 +81,7 @@ Com esse bot você e os usuários do seu Discord poderão fazer perguntas e pesq
 
 ## Me Encontre Online:
 
-- [Este GitHub - Perfil](https://github.com/GittServer/Gitt_Server#readme)
+- [Este GitHub - Perfil](https://github.com/GittServer/Gitt_Server#readme) 
 - [ayo.so/lucas_avila](https://ayo.so/lucas_avila)
 - [💬 Facebook Page - Atirador de Teia Brasil](https://facebook.com/adtbr.web.shooter.project)
 - [💬 Messenger - Atirador de Teia Brasil](https://m.me/adtbr.web.shooter.project)
