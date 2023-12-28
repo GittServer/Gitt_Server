@@ -107,5 +107,8 @@ Com esse bot você e os usuários do seu Discord poderão fazer perguntas e pesq
 > [!IMPORTANT]
 > Se quiser entrar em contato, não hesite em me enviar uma 💬 mensagem por um dos links acima!
 
+<!-- Sintaxe básica de gravação e formatação no GitHub. -->
+<!-- https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings -->
+
 </body>
-</html>
+</html>  
