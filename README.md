@@ -42,7 +42,7 @@ Atualmente, estou focado em aprimorar minhas habilidades em CSS, Python & Criaç
 ## Mais Projetos:
 - [Bots para Discord](https://www.google.com/search?client=firefox-b-d&q=bot+discord+o+que+%C3%A9): Tenho atualmente mais de 13 Bots para Discord criados, alguns foram vendidos, sendo os principais esses da imagem abaixo: 
 
-![Imagem...](https://scontent.xx.fbcdn.net/v/t1.15752-9/403415199_703866808352495_2547764637067737709_n.png?stp=dst-png_p403x403&_nc_cat=107&ccb=1-7&_nc_sid=510075&_nc_ohc=bVy_7i0HhuoAX9D-C7H&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQ7HstbPFZq02kSbKy3Sfek70mufzQgKEO81y3UuxNWNw&oe=65864262)    
+![Imagem Meus Bots.png](https://scontent.fpoa46-1.fna.fbcdn.net/v/t39.30808-6/414012530_5288289807961964_262230620681058175_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=3635dc&_nc_ohc=gQ5HvU_FvNkAX-4bIAf&_nc_ht=scontent.fpoa46-1.fna&oh=00_AfBpcrucxNPqn5WPrrbocVkKlRlTS8fmlLYvywohjOqL_w&oe=65911537)    
 
 ## Bot Karen-IA:
 - [Bot Karen-IA](https://eletro-tech-shop.vercel.app/#karen): A Karen é um assistente que atualmente está disponível em nosso servidor discord.
