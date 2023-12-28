@@ -45,8 +45,9 @@ Atualmente, estou focado em aprimorar minhas habilidades em CSS, Python & Criaç
   ![Imagem Interface Web.png](https://cdn.discordapp.com/attachments/1035003165491331114/1189782130742530088/iiiii.png?ex=659f69f5&is=658cf4f5&hm=684d4fd0582cb9b303f36afd784d77e9829f9cf4d8e4118082ffac99a7934ec7&)    
 
   [](https://discord.com/channels/1035003165042556989/1035003165491331114/1189782130922881124) [](https://imagem.interface.web.salva.no.link.facebook.discord.com)
-  - ## Novas funções sendo atualizadas em breve...
-
+  > [!NOTE]
+  > - ## Novas funções sendo atualizadas em breve...
+  
 ## Mais Projetos:
 - [Bots para Discord](https://www.google.com/search?client=firefox-b-d&q=bot+discord+o+que+%C3%A9): Tenho atualmente mais de 13 Bots para Discord criados, alguns foram vendidos, sendo os principais esses da imagem abaixo: 
 
