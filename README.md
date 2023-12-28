@@ -3,7 +3,7 @@
 <a href="https://github.com/GittServer/Gitt_Server#readme">
     <img src="https://scontent.fpoa46-1.fna.fbcdn.net/v/t39.30808-6/328348771_727272662352053_3391870648280424655_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=jXN-5plRm2YAX8xc7Hs&_nc_ht=scontent.fpoa46-1.fna&oh=00_AfDQNrQuXBPBfy_AnBXsz1qG3b9Y3Y5xgaut_Bj2N4f6Jg&oe=65922AB0" width="200" height="200"/></a> 
 
-**Oi!** 👋 Eu sou o Lucas Ávila, sei Eletrônica & Programação com habilidades tanto em desenvolvimento de circuitos, quanto em programação: back-end & front-end. 
+**Oi!** 👋 Eu sou o `Lucas Ávila`, sei Eletrônica & Programação com habilidades tanto em desenvolvimento de circuitos, quanto em programação: back-end & front-end. 
 Atualmente, estou focado em aprimorar minhas habilidades em CSS, Python & Criação de Sistemas Web.
 
 ## Habilidades:
