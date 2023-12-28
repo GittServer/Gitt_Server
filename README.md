@@ -104,7 +104,8 @@ Com esse bot você e os usuários do seu Discord poderão fazer perguntas e pesq
 - [Site ☁️ The Raven Host](https://sites.google.com/view/the-raven-host)
 - [The Raven Host GitHub - Perfil](https://github.com/The-Raven-Host) <!-- Criado pelo ADM Host: (src = luizdeveloper) https://discord.com/channels/@me/1162077239328911461 -->
 
-Se quiser entrar em contato, não hesite em me enviar uma 💬 mensagem por um dos links acima!
+> [!IMPORTANT]
+> Se quiser entrar em contato, não hesite em me enviar uma 💬 mensagem por um dos links acima!
 
 </body>
 </html>
