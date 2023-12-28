@@ -36,15 +36,16 @@ Atualmente, estou focado em aprimorar minhas habilidades em CSS, Python & Criaç
   - Veja exemplos em meu canal do [Youtube](https://www.youtube.com/channel/UCno6xFnMhesQarJX6qEOqpg) onde mostro a [Karen-IA](https://www.youtube.com/channel/UCno6xFnMhesQarJX6qEOqpg) fazendo o controle de minha Automação Residencial pessoal, em minha casa, ligando e desligando luzes, TV, ventiladores, ar condicionado e muito mais.
   - Obtendo também dados e informações, diretamente de seu DB - Banco de Dados Online.
   - Podendo lhe auxiliar em questões matemáticas, lhe falando, as horas, qual é o dia da semana, data atual, buscando informações diretamente na internet, respondendo a perguntas, etc.
-  - Tudo isso é controlado através de uma Interface Web simplificada [veja imagem](https://cdn.discordapp.com/attachments/1058257537377517608/1177175265391149188/aaaaaaaaa.png?ex=65718ce6&is=655f17e6&hm=a61624c51459089e4be646975d3b9bc070b8ae87d61a7f4db4ee618efe1d0673&), onde você pode usar botões e/ou comandos de voz para controlar o sistema.
-  - ############### (Sendo atualizadas em breve...)
+  - Tudo isso é controlado através de uma Interface Web simplificada [veja imagem](https://cdn.discordapp.com/attachments/1058257537377517608/1177175265391149188/aaaaaaaaa.png?ex=65718ce6&is=655f17e6&hm=a61624c51459089e4be646975d3b9bc070b8ae87d61a7f4db4ee618efe1d0673&), ou uma Interface Web mais complexa [veja imagem](https://scontent.fpoa46-1.fna.fbcdn.net/v/t39.30808-6/415223925_5288449824612629_6114542788959521541_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=3635dc&_nc_ohc=uXEL-a9GDm8AX_roSvT&_nc_ht=scontent.fpoa46-1.fna&oh=00_AfCcxlb3By_Zp1XuwTDqbBrS4eAu9y2DK9r6QondNbBVEw&oe=65913110), onde você pode usar botões e/ou comandos de voz para controlar o sistema.
+  - [Interface Web v2.0 - Automação Residencial (Login!)](https://rede-externa.bubbleapps.io/version-test/home-login) 
+  - ## Novas funções sendo atualizadas em breve...
 
 ## Mais Projetos:
 - [Bots para Discord](https://www.google.com/search?client=firefox-b-d&q=bot+discord+o+que+%C3%A9): Tenho atualmente mais de 13 Bots para Discord criados, alguns foram vendidos, sendo os principais esses da imagem abaixo: 
 
 ![Imagem Meus Bots.png](https://scontent.fpoa46-1.fna.fbcdn.net/v/t39.30808-6/414012530_5288289807961964_262230620681058175_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=3635dc&_nc_ohc=gQ5HvU_FvNkAX-4bIAf&_nc_ht=scontent.fpoa46-1.fna&oh=00_AfBpcrucxNPqn5WPrrbocVkKlRlTS8fmlLYvywohjOqL_w&oe=65911537)    
 
-[](https://www.facebook.com/lucas.avila.507/photos_by)
+[](https://www.facebook.com/lucas.avila.507/photos_by) [](https://imagem.dos.meus.bots.salva.no.link.facebook.com)
 
 ## Bot Karen-IA:
 - [Bot Karen-IA](https://eletro-tech-shop.vercel.app/#karen): A Karen é um assistente que atualmente está disponível em nosso servidor discord.
