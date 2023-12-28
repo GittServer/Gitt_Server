@@ -30,7 +30,7 @@ Atualmente, estou focado em aprimorar minhas habilidades em CSS, Python & Criaç
 ##  
 - [Karen-Intel. Artificial](https://www.youtube.com/channel/UCno6xFnMhesQarJX6qEOqpg): Esta é a mais nova [IA](https://pt.wikipedia.org/wiki/Intelig%C3%AAncia_artificial#) (Inteligência Artificial) que estou desenvolvendo e como sua principal função temos a de Gerenciar e Controlar nossas Automações Residenciais, como se fosse uma espécie de [JARVIS](https://pt.wikipedia.org/wiki/J.A.R.V.I.S.#) do Homem de Ferro.
    
-https://github.com/GittServer/Gitt_Server/assets/104231713/0da5368d-9f10-4210-8b6a-6801223efc6b
+https://github.com/GittServer/Gitt_Server/assets/104231713/0aeb565e-f1ce-4b59-8cbf-901e5bfd8add
 <!-- Fiz o upload arrastando video.mp4 aqui na pagina. -->
 
   ## Karen-IA Funções:
