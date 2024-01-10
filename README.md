@@ -51,7 +51,7 @@ https://github.com/GittServer/Gitt_Server/assets/104231713/0aeb565e-f1ce-4b59-8c
 ## Mais Projetos:
 - [Bots para Discord](https://www.google.com/search?client=firefox-b-d&q=bot+discord+o+que+%C3%A9): Tenho atualmente mais de 13 Bots para Discord criados, alguns foram vendidos, sendo os principais esses da imagem abaixo: 
 
-![Imagem Meus Bots.png](https://scontent.fpoa46-1.fna.fbcdn.net/v/t39.30808-6/414012530_5288289807961964_262230620681058175_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=3635dc&_nc_ohc=gQ5HvU_FvNkAX-4bIAf&_nc_ht=scontent.fpoa46-1.fna&oh=00_AfBpcrucxNPqn5WPrrbocVkKlRlTS8fmlLYvywohjOqL_w&oe=65911537)    
+![Imagem Meus Bots.png](https://scontent.fpoa46-1.fna.fbcdn.net/v/t39.30808-6/414012530_5288289807961964_262230620681058175_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=3635dc&_nc_ohc=9JGIiSbaNcEAX9bX0Qw&_nc_ht=scontent.fpoa46-1.fna&oh=00_AfAXFfmOfOAhCY2TUxA-ODGIm7OzGXDTn8pnS8PsSuhZeg&oe=65A2E177)    
 
 [](https://www.facebook.com/lucas.avila.507/photos_by) [](https://imagem.dos.meus.bots.salva.no.link.facebook.com)
 
