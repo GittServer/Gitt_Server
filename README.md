@@ -1,7 +1,8 @@
 # Lucas Ávila - Perfil de Desenvolvedor
 
+<!-- Fiz o upload dessa imagem de perfil no chat do instagram: Lucas Ávila. -->
 <a href="https://github.com/GittServer/Gitt_Server#readme">
-    <img src="https://scontent.fpoa46-1.fna.fbcdn.net/v/t39.30808-6/328348771_727272662352053_3391870648280424655_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=uDIsFOPu2tUAX8WmlaP&_nc_ht=scontent.fpoa46-1.fna&oh=00_AfC-dDME6Q_yHSZP7FYhvK9TJmaL-GFsmOI-5XpJZqVaow&oe=65A3F6F0" width="200" height="200"/></a> 
+    <img src="https://scontent.xx.fbcdn.net/v/t1.15752-9/403404043_1700758940430084_3421224352020879432_n.jpg?stp=dst-jpg_s403x403&_nc_cat=110&ccb=1-7&_nc_sid=510075&_nc_ohc=1cftMy_IC5YAX9huduu&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdRhe25rFFrj6BmGPkVLTCMs3wtxW58BcB762QVITH2PzQ&oe=65D811D6" width="200" height="200"/></a> 
 
 **Oi!** 👋 Eu sou o `Lucas Ávila`, sei Eletrônica & Programação com habilidades tanto em desenvolvimento de circuitos, quanto em programação: back-end & front-end. 
 Atualmente, estou focado em aprimorar minhas habilidades em CSS, Python & Criação de Sistemas Web.
@@ -50,9 +51,10 @@ https://github.com/GittServer/Gitt_Server/assets/104231713/0aeb565e-f1ce-4b59-8c
   > - ## Novas funções sendo atualizadas em breve...
   
 ## Mais Projetos:
-- [Bots para Discord](https://www.google.com/search?client=firefox-b-d&q=bot+discord+o+que+%C3%A9): Tenho atualmente mais de 13 Bots para Discord criados, alguns foram vendidos, sendo os principais esses da imagem abaixo: 
-
-![Imagem Meus Bots.png](https://scontent.fpoa46-1.fna.fbcdn.net/v/t39.30808-6/414012530_5288289807961964_262230620681058175_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=3635dc&_nc_ohc=9JGIiSbaNcEAX9bX0Qw&_nc_ht=scontent.fpoa46-1.fna&oh=00_AfAXFfmOfOAhCY2TUxA-ODGIm7OzGXDTn8pnS8PsSuhZeg&oe=65A2E177)    
+- [Bots para Discord](https://www.google.com/search?client=firefox-b-d&q=bot+discord+o+que+%C3%A9): Tenho atualmente mais de 13 Bots para Discord criados, alguns foram vendidos, sendo os principais esses da imagem abaixo:
+ 
+<!-- Fiz o upload dessa imagem dos Bots no chat do instagram: Lucas Ávila. -->
+![Imagem Meus Bots.png](https://scontent.xx.fbcdn.net/v/t1.15752-9/403415199_703866808352495_2547764637067737709_n.png?stp=dst-png_p403x403&_nc_cat=107&ccb=1-7&_nc_sid=510075&_nc_ohc=vXt-0yq-rIkAX9Hv3kv&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQ3RnUBBjN27_k7fflqW2-SCSgfVw-N_91OI5kr1ZJkfQ&oe=65D7FF62)    
 
 [](https://www.facebook.com/lucas.avila.507/photos_by) [](https://imagem.dos.meus.bots.salva.no.link.facebook.com)
 
