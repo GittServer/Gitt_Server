@@ -24,7 +24,7 @@ Atualmente, estou focado em aprimorar minhas habilidades em CSS, Python & Criaç
 ```
 ## Projetos Destacados:
 
-- [Automação Residencial](https://www.youtube.com/channel/UCno6xFnMhesQarJX6qEOqpg): Projeto principal, onde desenvolvi um sistema completo de Automação Residencial personalizado que serve tanto para controle e gerenciamento de sua casa, como também para todas as áreas e setores do seu negócio.
+- [Automação Residencial](https://www.youtube.com/channel/UCno6xFnMhesQarJX6qEOqpg): Projeto principal, onde desenvolvi um sistema de Automação Residencial personalizado que serve tanto para controle e gerenciamento de sua casa, como também para todas as áreas e setores do seu negócio.
 
   Esses sistemas permitem que tarefas diárias, semanais ou anuais, sejam executadas com eficiência e precisão de acordo com o horário e a data que o usuário escolher,   eliminando a necessidade de intervenção manual, pois possui uma [IA](https://pt.wikipedia.org/wiki/Intelig%C3%AAncia_artificial#) para gerenciamento das suas funções de automação.
 
