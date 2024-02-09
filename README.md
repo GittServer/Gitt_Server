@@ -41,7 +41,7 @@ https://github.com/GittServer/Gitt_Server/assets/104231713/0aeb565e-f1ce-4b59-8c
   - Auxiliar em decisões tomadas enquanto você está ocupado ou fora de casa, por exemplo: quando escurecer, a [Karen-IA](https://www.youtube.com/channel/UCno6xFnMhesQarJX6qEOqpg) liga as luzes e fecha as cortinas de casa.
   - Com a Karen é possivel controlar sua automação de qualquer lugar do mundo (*com internet), usando um sofisticado sistema que desenvolvemos com uma tecnologia chamada AIW - Anywhere In World (de qualquer lugar do mundo).
   - Veja exemplos em meu canal do [Youtube](https://www.youtube.com/channel/UCno6xFnMhesQarJX6qEOqpg) onde mostro a [Karen-IA](https://www.youtube.com/channel/UCno6xFnMhesQarJX6qEOqpg) fazendo o controle de minha Automação Residencial pessoal, em minha casa, nos vídeos aparece ela ligando e desligando luzes, TV, ventiladores, ar condicionado e muito mais.
-  `- Você deve se perguntar, mas e aí Lucas, sua IA só liga e desliga as coisas? E a resposta é não, ela pode fazer muito mais que isso.`
+  - `Você deve se perguntar, mas e aí Lucas, sua IA só liga e desliga as coisas? E a resposta é não, ela pode fazer muito mais que isso.`
   - Ela pode fazer a leitura e o controle dos sensores ligados a sua Automação Residencial.
   - Obtendo também dados e informações, diretamente de seu DB - Banco de Dados Online.
   - Podendo lhe auxiliar em questões matemáticas, lhe falando, as horas, qual é o dia da semana, data atual, buscando informações diretamente na internet, respondendo a perguntas, etc.
