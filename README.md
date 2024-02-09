@@ -38,10 +38,11 @@ https://github.com/GittServer/Gitt_Server/assets/104231713/0aeb565e-f1ce-4b59-8c
 <!-- Fiz o upload arrastando video.mp4 aqui na pagina. -->
 
   ## Karen-IA Funções:
-  - Fazer a leitura e o controle dos sensores ligados a sua Automação Residencial.
-  - Auxiliar em decisões tomadas enquanto você está ocupado ou fora de casa, por exemplo: quando escurecer a [Karen-IA](https://www.youtube.com/channel/UCno6xFnMhesQarJX6qEOqpg) liga as luzes e fecha as cortinas de casa.
-  - Com ela é possivel controlar de qualquer lugar do mundo sua automação, usando um sofisticado sistema que desenvolvemos usando uma tecnologia chamada AIW (Anywhere In World).
-  - Veja exemplos em meu canal do [Youtube](https://www.youtube.com/channel/UCno6xFnMhesQarJX6qEOqpg) onde mostro a [Karen-IA](https://www.youtube.com/channel/UCno6xFnMhesQarJX6qEOqpg) fazendo o controle de minha Automação Residencial pessoal, em minha casa, ligando e desligando luzes, TV, ventiladores, ar condicionado e muito mais.
+  - Auxiliar em decisões tomadas enquanto você está ocupado ou fora de casa, por exemplo: quando escurecer, a [Karen-IA](https://www.youtube.com/channel/UCno6xFnMhesQarJX6qEOqpg) liga as luzes e fecha as cortinas de casa.
+  - Com a Karen é possivel controlar sua automação de qualquer lugar do mundo (*com internet), usando um sofisticado sistema que desenvolvemos com uma tecnologia chamada AIW - Anywhere In World (de qualquer lugar do mundo).
+  - Veja exemplos em meu canal do [Youtube](https://www.youtube.com/channel/UCno6xFnMhesQarJX6qEOqpg) onde mostro a [Karen-IA](https://www.youtube.com/channel/UCno6xFnMhesQarJX6qEOqpg) fazendo o controle de minha Automação Residencial pessoal, em minha casa, nos vídeos aparece ela ligando e desligando luzes, TV, ventiladores, ar condicionado e muito mais.
+  `- Você deve se perguntar, mas e aí Lucas, sua IA só liga e desliga as coisas? E a resposta é não, ela pode fazer muito mais que isso.`
+  - Ela pode fazer a leitura e o controle dos sensores ligados a sua Automação Residencial.
   - Obtendo também dados e informações, diretamente de seu DB - Banco de Dados Online.
   - Podendo lhe auxiliar em questões matemáticas, lhe falando, as horas, qual é o dia da semana, data atual, buscando informações diretamente na internet, respondendo a perguntas, etc.
   - Tudo isso é controlado através de uma Interface Web simplificada [veja imagem](https://cdn.discordapp.com/attachments/1058257537377517608/1177175265391149188/aaaaaaaaa.png?ex=65718ce6&is=655f17e6&hm=a61624c51459089e4be646975d3b9bc070b8ae87d61a7f4db4ee618efe1d0673&), ou uma Interface Web mais complexa [veja imagem](https://cdn.discordapp.com/attachments/1035003165491331114/1189782130742530088/iiiii.png?ex=659f69f5&is=658cf4f5&hm=684d4fd0582cb9b303f36afd784d77e9829f9cf4d8e4118082ffac99a7934ec7&), onde você pode usar botões e/ou comandos de voz para controlar o sistema.
