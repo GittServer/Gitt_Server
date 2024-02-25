@@ -18,7 +18,7 @@
 <img src="https://c.disquscdn.com/uploads/users/12138/4881/avatar200.jpg?1706076534" width="200" height="200"/></a> 
 
 #
-
+<p>
 <!-- ICONES DAS LINGUAGENS - Link das imagens SVG: https://devicon.dev/ -->
 <img align="left" alt="Lucas-Html" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" /> 
 <img align="left" alt="Lucas-Js" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> 
@@ -30,7 +30,7 @@
 
 <!-- Link NO CODE Fiz o upload dela nas imagens do meu Facebook LINK ABAIXO - USANDO  -->
 <img align="left" alt="Lucas-NoCode" height="100" width="110" src="https://scontent.fpoa46-1.fna.fbcdn.net/v/t39.30808-6/409090433_5501083533349256_2352517957852043306_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=524774&_nc_ohc=rokenzAw1lIAX8flM9r&_nc_ht=scontent.fpoa46-1.fna&oh=00_AfAm0KJOlqCXGRJSAv64CnHA_N6cJ-JuF8FZlvO0aNqBZg&oe=65DFB2D1" />
-
+</p>
 <!-- # -->
 <p>    
 <!-- Link das imagens SVG: https://devicon.dev/ -->
@@ -51,7 +51,7 @@
 
 <!-- Link da imagem retirada do Google -->
 <img align="left" alt="Lucas-IA_Automação" height="100" width="110" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQxTuKxl7id6-TQt5GAB1jWeEnXW557CuKng&usqp=CAU" />
-XX
+
 </p>
 
 <BR><BR><BR><BR><BR><BR><BR><BR>
