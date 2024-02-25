@@ -46,8 +46,14 @@ https://github.com/GittServer/Gitt_Server/assets/104231713/0aeb565e-f1ce-4b59-8c
   - Após obter os dados e informações, ela envia tudo diretamente para seu DB - Banco de Dados Online. Com isso ela pode acessar o valor da temperatura de sua casa por exemplo, dizendo quantos graus estava a temperatura em tal horário. Ela pode também armazenar dados em sua memória DB quando cada aparelho que ela gerencia/controla foi ligado ou desligado, tornando assim seu sistema de memória mais eficiente.
   - Podendo lhe auxiliar em questões matemáticas, lhe falando, as horas, qual é o dia da semana, data atual, buscando informações diretamente na internet, respondendo a perguntas, etc.
   - Tudo isso é controlado através de uma Interface Web simplificada [veja imagem](https://cdn.discordapp.com/attachments/1058257537377517608/1177175265391149188/aaaaaaaaa.png?ex=65718ce6&is=655f17e6&hm=a61624c51459089e4be646975d3b9bc070b8ae87d61a7f4db4ee618efe1d0673&), ou uma Interface Web mais complexa [veja imagem](https://cdn.discordapp.com/attachments/1035003165491331114/1189782130742530088/iiiii.png?ex=659f69f5&is=658cf4f5&hm=684d4fd0582cb9b303f36afd784d77e9829f9cf4d8e4118082ffac99a7934ec7&), onde você pode usar botões e/ou comandos de voz para controlar o sistema.
-  - [Interface Web v2.0 - Automação Residencial (Login!)](https://rede-externa.bubbleapps.io/version-test/home-login) 
-  ![Imagem Interface Web.png](https://cdn.discordapp.com/attachments/1035003165491331114/1189782130742530088/iiiii.png?ex=659f69f5&is=658cf4f5&hm=684d4fd0582cb9b303f36afd784d77e9829f9cf4d8e4118082ffac99a7934ec7&)    
+  - [Interface Web v2.0 - Automação Residencial (Login!)](https://rede-externa.bubbleapps.io/version-test/home-login)
+
+<!-- Fiz o upload dessa imagem da Interface Web nas imagens do meu Facebook LINK ABAIXO -->
+<!-- https://scontent.fpoa46-1.fna.fbcdn.net/v/t39.30808-6/415223925_5288449824612629_6114542788959521541_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=3635dc&_nc_ohc=GQW3Qj4Ga6QAX_KDaPO&_nc_ht=scontent.fpoa46-1.fna&oh=00_AfAoD9-w-4AIGVfuryFFWMWI1DDGbfmY7qEusrzO5au2Rw&oe=65E04B10 -->
+
+<!-- link antigo: https://cdn.discordapp.com/attachments/1035003165491331114/1189782130742530088/iiiii.png?ex=659f69f5&is=658cf4f5&hm=684d4fd0582cb9b303f36afd784d77e9829f9cf4d8e4118082ffac99a7934ec7& -->
+
+  ![Imagem Interface Web.png](https://scontent.fpoa46-1.fna.fbcdn.net/v/t39.30808-6/415223925_5288449824612629_6114542788959521541_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=3635dc&_nc_ohc=GQW3Qj4Ga6QAX_KDaPO&_nc_ht=scontent.fpoa46-1.fna&oh=00_AfAoD9-w-4AIGVfuryFFWMWI1DDGbfmY7qEusrzO5au2Rw&oe=65E04B10)    
 
   [](https://discord.com/channels/1035003165042556989/1035003165491331114/1189782130922881124) [](https://imagem.interface.web.salva.no.link.facebook.discord.com)
   ``` Digite aqui... mic / lista / red ```
