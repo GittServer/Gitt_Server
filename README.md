@@ -203,6 +203,8 @@ Com esse bot você e os usuários do seu Discord poderão fazer perguntas e pesq
 <!-- Sintaxe básica de gravação e formatação no GitHub. -->
 <!-- https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings -->
 
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
 <!-- Cartão de Status Azul - GittServer - X rafaballerini - X stats-dev - fuma-nama -->
 <!-- MODIFICAÇÕES E LINKS RETIRADOS DO VIDEO: https://www.youtube.com/watch?v=TsaLQAetPLU -->
 <div>    
