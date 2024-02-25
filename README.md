@@ -32,8 +32,7 @@
 <img align="left" alt="Lucas-NoCode" height="100" width="110" src="https://scontent.fpoa46-1.fna.fbcdn.net/v/t39.30808-6/409090433_5501083533349256_2352517957852043306_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=524774&_nc_ohc=rokenzAw1lIAX8flM9r&_nc_ht=scontent.fpoa46-1.fna&oh=00_AfAm0KJOlqCXGRJSAv64CnHA_N6cJ-JuF8FZlvO0aNqBZg&oe=65DFB2D1" />
 
 <!-- # -->
-<p>
-      
+<p>    
 <!-- Link das imagens SVG: https://devicon.dev/ -->
 <img align="left" alt="Lucas-C++" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 
@@ -56,7 +55,7 @@
 </div>
 
 <div>
-
+<p>
 <!-- LINK DE ONDE TIREI OS BOTOES: https://dev.to/envoy_/150-badges-for-github-pnk -->
 
 <a href="https://github.com/GittServer/Gitt_Server#readme" target="_blank">
@@ -79,6 +78,7 @@
 
 <a href="https://github.com/GittServer/Gitt_Server#readme" target="_blank">
 <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+</p>
 </div>
 
 #
