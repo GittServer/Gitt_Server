@@ -33,8 +33,6 @@
 
 <!-- # -->
 <p>
-<!-- Link das imagens SVG: https://devicon.dev/ -->
-<img align="left" alt="LUCAS-FOTO-PERFIL" height="200" width="200" src="https://c.disquscdn.com/uploads/users/12138/4881/avatar200.jpg?1706076534" />
 
 <!-- Link das imagens SVG: https://devicon.dev/ -->
 <img align="right" alt="Lucas-C++" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
@@ -64,6 +62,9 @@
 #
 
 <div>
+
+<!-- LINK DE ONDE TIREI OS BOTOES: https://dev.to/envoy_/150-badges-for-github-pnk -->
+
 <a href="https://github.com/GittServer/Gitt_Server#readme" target="_blank">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
 
