@@ -53,7 +53,7 @@
 <img align="left" alt="Lucas-IA_Automação" height="100" width="110" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQxTuKxl7id6-TQt5GAB1jWeEnXW557CuKng&usqp=CAU" />
 
 </p>
-
+</div>
 <BR><BR><BR><BR><BR><BR><BR><BR>
 <p>
 
@@ -79,7 +79,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 </p>
-</div>
+
 
 #
 
