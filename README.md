@@ -1,11 +1,98 @@
+<!DOCTYPE html><html lang="pt">
+<head>
+      
+</head>
+    
+<body>   
+
+<!-- DIV - ICONES DAS LINGUAGENS -->
+<div style="display: inline_block">
+
 # Lucas Ávila - Perfil de Desenvolvedor
 
 <!-- Fiz o upload dessa imagem de perfil no chat do instagram: Lucas Ávila. LINK ABAIXO -->
 <!-- https://scontent.xx.fbcdn.net/v/t1.15752-9/403404043_1700758940430084_3421224352020879432_n.jpg?stp=dst-jpg_s403x403&_nc_cat=110&ccb=1-7&_nc_sid=510075&_nc_ohc=1cftMy_IC5YAX9huduu&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdRhe25rFFrj6BmGPkVLTCMs3wtxW58BcB762QVITH2PzQ&oe=65D811D6 -->
 
-<!-- Link da foto usada abaixo do perfil do DISQUS -->
+<!-- Link da foto usada abaixo, retirada do perfil do DISQUS -->
 <a href="https://github.com/GittServer/Gitt_Server#readme">
-    <img src="https://c.disquscdn.com/uploads/users/12138/4881/avatar200.jpg?1706076534" width="200" height="200"/></a> 
+<img src="https://c.disquscdn.com/uploads/users/12138/4881/avatar200.jpg?1706076534" width="200" height="200"/></a> 
+
+#
+
+<!-- ICONES DAS LINGUAGENS - Link das imagens SVG: https://devicon.dev/ -->
+<img align="right" alt="Lucas-Html" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" /> 
+<img align="right" alt="Lucas-Js" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> 
+<img align="right" alt="Lucas-Py" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+<img align="right" alt="Lucas-Php" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /> 
+
+<!-- Link DEV WEB Fiz o upload dela nas imagens do meu Facebook LINK ABAIXO - USANDO  -->
+<img align="right" alt="Lucas-DevWeb" height="100" width="110" src="https://scontent.fpoa46-1.fna.fbcdn.net/v/t39.30808-6/429591444_5501037263353883_917184381182899874_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=524774&_nc_ohc=y7eYDa11cq8AX9xtzOC&_nc_ht=scontent.fpoa46-1.fna&oh=00_AfCVS60O0LW6jgwPoxCmnfwEpzXsTKvMdx4RuC9KaqZCHA&oe=65E0A229" />
+
+<!-- Link NO CODE Fiz o upload dela nas imagens do meu Facebook LINK ABAIXO - USANDO  -->
+<img align="right" alt="Lucas-NoCode" height="100" width="110" src="https://scontent.fpoa46-1.fna.fbcdn.net/v/t39.30808-6/409090433_5501083533349256_2352517957852043306_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=524774&_nc_ohc=rokenzAw1lIAX8flM9r&_nc_ht=scontent.fpoa46-1.fna&oh=00_AfAm0KJOlqCXGRJSAv64CnHA_N6cJ-JuF8FZlvO0aNqBZg&oe=65DFB2D1" />
+
+<!-- # -->
+<p>
+<!-- Link das imagens SVG: https://devicon.dev/ -->
+<img align="left" alt="LUCAS-FOTO-PERFIL" height="200" width="210" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+
+<!-- Link das imagens SVG: https://devicon.dev/ -->
+<img align="right" alt="Lucas-C++" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+
+<!-- Link desse gif de Bot retirado desse site: https://tenor.com/pt-BR/view/joinblink-blink-blink-bot-blink-app-the-blink-gif-15839692 -->
+<img align="right" alt="Lucas-DevBot" height="100" width="110" src="https://media1.tenor.com/m/hE0T8D0GpXsAAAAC/joinblink-blink.gif" />
+
+<!-- Link da imagem Gif de Eletronica retirado desse site: https://br.pinterest.com/pin/27795722686643027/ --> 
+<img align="right" alt="Lucas-Eletronica" height="100" width="110" src="https://i.pinimg.com/originals/c4/a7/3f/c4a73fb5afc450cb3ecd2325c7c46af6.gif" />
+
+<!-- Link da imagem retirado desse site: https://icons8.com.br/icon/24459/webhook -->
+<img align="right" alt="Lucas-Webhook" width="110" height="100" src="https://img.icons8.com/color/100/webhook.png" />
+
+<!-- Link da imagem retirada do Google -->
+<img align="right" alt="Lucas-IA_Automação" height="100" width="110" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQxTuKxl7id6-TQt5GAB1jWeEnXW557CuKng&usqp=CAU" />
+
+<!-- Link da imagem salva no meu chat: https://www.instagram.com/direct/t/109247043799776/ -->
+<!-- Imagem baixada desse site: https://icons8.com.br/icon/Zh3EQfzwFUbT/desenvolvimento-back-end -->
+<img align="right" alt="Lucas-Dev" height="100" width="110" src="https://cdn.fbsbx.com/v/t59.2708-21/429919591_721072233532971_5215210425774726742_n.gif?_nc_cat=106&ccb=1-7&_nc_sid=cf94fc&_nc_ohc=N-ddJn3_G2EAX9fMbTI&_nc_ht=cdn.fbsbx.com&oh=03_AdQjmqVeTs2oIKXMnzgslLfBUmBa9PvyOugY1RNoGPERKA&oe=65DC8B66" />
+
+<!-- <img align="right" alt="Lucas-Gif" height="60" width="80" src="https://cdn.fbsbx.com/v/t59.2708-21/429919591_721072233532971_5215210425774726742_n.gif?_nc_cat=106&ccb=1-7&_nc_sid=cf94fc&_nc_ohc=N-ddJn3_G2EAX9fMbTI&_nc_ht=cdn.fbsbx.com&oh=03_AdQjmqVeTs2oIKXMnzgslLfBUmBa9PvyOugY1RNoGPERKA&oe=65DC8B66" />
+-->
+</p>
+</div>
+
+<BR><BR><BR><BR><BR><BR><BR><BR>
+#
+
+<div>
+<a href="https://github.com/GittServer/Gitt_Server#readme" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
+
+<a href="https://github.com/GittServer/Gitt_Server#readme" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+
+<a href="https://github.com/GittServer/Gitt_Server#readme" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+
+<a href="https://github.com/GittServer/Gitt_Server#readme" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+
+<a href="https://github.com/GittServer/Gitt_Server#readme" target="_blank">
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+
+<a href="https://github.com/GittServer/Gitt_Server#readme" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+<a href="https://github.com/GittServer/Gitt_Server#readme" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+<a href="https://github.com/GittServer/Gitt_Server#readme" target="_blank">
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+
+<a href="https://github.com/GittServer/Gitt_Server#readme" target="_blank">
+<img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+</div>
+
+#
 
 **Oi!** 👋 Eu sou o `Lucas Ávila`, sei Eletrônica & Programação com habilidades tanto em desenvolvimento de circuitos, quanto em programação: back-end & front-end. 
 Atualmente, estou focado em aprimorar minhas habilidades em CSS, Python & Criação de Sistemas Web.
@@ -126,6 +213,18 @@ Com esse bot você e os usuários do seu Discord poderão fazer perguntas e pesq
 
 <!-- Sintaxe básica de gravação e formatação no GitHub. -->
 <!-- https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings -->
+
+<!-- Cartão de Status Azul - GittServer - X rafaballerini - X stats-dev - fuma-nama -->
+<!-- MODIFICAÇÕES E LINKS RETIRADOS DO VIDEO: https://www.youtube.com/watch?v=TsaLQAetPLU -->
+<div>    
+<a href="https://github.com/GittServer/Gitt_Server#readme"> <!-- Link do meu perfil do github -->
+
+<!-- GittServer - rafaballerini - fuma-nama -->    
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&custom_title=Lucas_Github-Stats&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+
+<!-- stats-dev - fuma-nama - EckigerLuca (https://github.com/EckigerLuca) -->    
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=20&theme=transparent"/>    
+</div>
 
 </body>
 </html>  
