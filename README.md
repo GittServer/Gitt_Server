@@ -20,38 +20,38 @@
 #
 
 <!-- ICONES DAS LINGUAGENS - Link das imagens SVG: https://devicon.dev/ -->
-<img align="right" alt="Lucas-Html" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" /> 
-<img align="right" alt="Lucas-Js" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> 
-<img align="right" alt="Lucas-Py" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-<img align="right" alt="Lucas-Php" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /> 
+<img align="left" alt="Lucas-Html" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" /> 
+<img align="left" alt="Lucas-Js" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> 
+<img align="left" alt="Lucas-Py" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+<img align="left" alt="Lucas-Php" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /> 
 
 <!-- Link DEV WEB Fiz o upload dela nas imagens do meu Facebook LINK ABAIXO - USANDO  -->
-<img align="right" alt="Lucas-DevWeb" height="100" width="110" src="https://scontent.fpoa46-1.fna.fbcdn.net/v/t39.30808-6/429591444_5501037263353883_917184381182899874_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=524774&_nc_ohc=y7eYDa11cq8AX9xtzOC&_nc_ht=scontent.fpoa46-1.fna&oh=00_AfCVS60O0LW6jgwPoxCmnfwEpzXsTKvMdx4RuC9KaqZCHA&oe=65E0A229" />
+<img align="left" alt="Lucas-DevWeb" height="100" width="110" src="https://scontent.fpoa46-1.fna.fbcdn.net/v/t39.30808-6/429591444_5501037263353883_917184381182899874_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=524774&_nc_ohc=y7eYDa11cq8AX9xtzOC&_nc_ht=scontent.fpoa46-1.fna&oh=00_AfCVS60O0LW6jgwPoxCmnfwEpzXsTKvMdx4RuC9KaqZCHA&oe=65E0A229" />
 
 <!-- Link NO CODE Fiz o upload dela nas imagens do meu Facebook LINK ABAIXO - USANDO  -->
-<img align="right" alt="Lucas-NoCode" height="100" width="110" src="https://scontent.fpoa46-1.fna.fbcdn.net/v/t39.30808-6/409090433_5501083533349256_2352517957852043306_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=524774&_nc_ohc=rokenzAw1lIAX8flM9r&_nc_ht=scontent.fpoa46-1.fna&oh=00_AfAm0KJOlqCXGRJSAv64CnHA_N6cJ-JuF8FZlvO0aNqBZg&oe=65DFB2D1" />
+<img align="left" alt="Lucas-NoCode" height="100" width="110" src="https://scontent.fpoa46-1.fna.fbcdn.net/v/t39.30808-6/409090433_5501083533349256_2352517957852043306_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=524774&_nc_ohc=rokenzAw1lIAX8flM9r&_nc_ht=scontent.fpoa46-1.fna&oh=00_AfAm0KJOlqCXGRJSAv64CnHA_N6cJ-JuF8FZlvO0aNqBZg&oe=65DFB2D1" />
 
 <!-- # -->
 <p>
       
 <!-- Link das imagens SVG: https://devicon.dev/ -->
-<img align="right" alt="Lucas-C++" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="Lucas-C++" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 
 <!-- Link desse gif de Bot retirado desse site: https://tenor.com/pt-BR/view/joinblink-blink-blink-bot-blink-app-the-blink-gif-15839692 -->
-<img align="right" alt="Lucas-DevBot" height="100" width="110" src="https://media1.tenor.com/m/hE0T8D0GpXsAAAAC/joinblink-blink.gif" />
+<img align="left" alt="Lucas-DevBot" height="100" width="110" src="https://media1.tenor.com/m/hE0T8D0GpXsAAAAC/joinblink-blink.gif" />
 
 <!-- Link da imagem Gif de Eletronica retirado desse site: https://br.pinterest.com/pin/27795722686643027/ --> 
-<img align="right" alt="Lucas-Eletronica" height="100" width="110" src="https://i.pinimg.com/originals/c4/a7/3f/c4a73fb5afc450cb3ecd2325c7c46af6.gif" />
+<img align="left" alt="Lucas-Eletronica" height="100" width="110" src="https://i.pinimg.com/originals/c4/a7/3f/c4a73fb5afc450cb3ecd2325c7c46af6.gif" />
 
 <!-- Link da imagem retirado desse site: https://icons8.com.br/icon/24459/webhook -->
-<img align="right" alt="Lucas-Webhook" width="110" height="100" src="https://img.icons8.com/color/100/webhook.png" />
+<img align="left" alt="Lucas-Webhook" width="110" height="100" src="https://img.icons8.com/color/100/webhook.png" />
 
 <!-- Link da imagem retirada do Google -->
-<img align="right" alt="Lucas-IA_Automação" height="100" width="110" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQxTuKxl7id6-TQt5GAB1jWeEnXW557CuKng&usqp=CAU" />
+<img align="left" alt="Lucas-IA_Automação" height="100" width="110" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQxTuKxl7id6-TQt5GAB1jWeEnXW557CuKng&usqp=CAU" />
 
 <!-- Link da imagem salva no meu chat: https://www.instagram.com/direct/t/109247043799776/ -->
 <!-- Imagem baixada desse site: https://icons8.com.br/icon/Zh3EQfzwFUbT/desenvolvimento-back-end -->
-<img align="right" alt="Lucas-Dev" height="100" width="110" src="https://cdn.fbsbx.com/v/t59.2708-21/429919591_721072233532971_5215210425774726742_n.gif?_nc_cat=106&ccb=1-7&_nc_sid=cf94fc&_nc_ohc=N-ddJn3_G2EAX9fMbTI&_nc_ht=cdn.fbsbx.com&oh=03_AdQjmqVeTs2oIKXMnzgslLfBUmBa9PvyOugY1RNoGPERKA&oe=65DC8B66" />
+<img align="left" alt="Lucas-Dev" height="100" width="110" src="https://cdn.fbsbx.com/v/t59.2708-21/429919591_721072233532971_5215210425774726742_n.gif?_nc_cat=106&ccb=1-7&_nc_sid=cf94fc&_nc_ohc=N-ddJn3_G2EAX9fMbTI&_nc_ht=cdn.fbsbx.com&oh=03_AdQjmqVeTs2oIKXMnzgslLfBUmBa9PvyOugY1RNoGPERKA&oe=65DC8B66" />
 
 <!-- <img align="right" alt="Lucas-Gif" height="60" width="80" src="https://cdn.fbsbx.com/v/t59.2708-21/429919591_721072233532971_5215210425774726742_n.gif?_nc_cat=106&ccb=1-7&_nc_sid=cf94fc&_nc_ohc=N-ddJn3_G2EAX9fMbTI&_nc_ht=cdn.fbsbx.com&oh=03_AdQjmqVeTs2oIKXMnzgslLfBUmBa9PvyOugY1RNoGPERKA&oe=65DC8B66" />
 -->
