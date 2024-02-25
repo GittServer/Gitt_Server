@@ -3,7 +3,7 @@
 <!-- Fiz o upload dessa imagem de perfil no chat do instagram: Lucas Ávila. LINK ABAIXO -->
 <!-- https://scontent.xx.fbcdn.net/v/t1.15752-9/403404043_1700758940430084_3421224352020879432_n.jpg?stp=dst-jpg_s403x403&_nc_cat=110&ccb=1-7&_nc_sid=510075&_nc_ohc=1cftMy_IC5YAX9huduu&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdRhe25rFFrj6BmGPkVLTCMs3wtxW58BcB762QVITH2PzQ&oe=65D811D6 -->
 
-<!-- Link usado abaixo do perfil do DISQUS -->
+<!-- Link da foto usada abaixo do perfil do DISQUS -->
 <a href="https://github.com/GittServer/Gitt_Server#readme">
     <img src="https://c.disquscdn.com/uploads/users/12138/4881/avatar200.jpg?1706076534" width="200" height="200"/></a> 
 
@@ -48,10 +48,10 @@ https://github.com/GittServer/Gitt_Server/assets/104231713/0aeb565e-f1ce-4b59-8c
   - Tudo isso é controlado através de uma Interface Web simplificada [veja imagem](https://cdn.discordapp.com/attachments/1058257537377517608/1177175265391149188/aaaaaaaaa.png?ex=65718ce6&is=655f17e6&hm=a61624c51459089e4be646975d3b9bc070b8ae87d61a7f4db4ee618efe1d0673&), ou uma Interface Web mais complexa [veja imagem](https://cdn.discordapp.com/attachments/1035003165491331114/1189782130742530088/iiiii.png?ex=659f69f5&is=658cf4f5&hm=684d4fd0582cb9b303f36afd784d77e9829f9cf4d8e4118082ffac99a7934ec7&), onde você pode usar botões e/ou comandos de voz para controlar o sistema.
   - [Interface Web v2.0 - Automação Residencial (Login!)](https://rede-externa.bubbleapps.io/version-test/home-login)
 
-<!-- Fiz o upload dessa imagem da Interface Web nas imagens do meu Facebook LINK ABAIXO -->
+<!-- Fiz o upload dessa imagem da Interface Web nas imagens do meu Facebook LINK ABAIXO - USANDO -->
 <!-- https://scontent.fpoa46-1.fna.fbcdn.net/v/t39.30808-6/415223925_5288449824612629_6114542788959521541_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=3635dc&_nc_ohc=GQW3Qj4Ga6QAX_KDaPO&_nc_ht=scontent.fpoa46-1.fna&oh=00_AfAoD9-w-4AIGVfuryFFWMWI1DDGbfmY7qEusrzO5au2Rw&oe=65E04B10 -->
 
-<!-- link antigo: https://cdn.discordapp.com/attachments/1035003165491331114/1189782130742530088/iiiii.png?ex=659f69f5&is=658cf4f5&hm=684d4fd0582cb9b303f36afd784d77e9829f9cf4d8e4118082ffac99a7934ec7& -->
+<!-- Link antigo do discord, parou de funcionar: https://cdn.discordapp.com/attachments/1035003165491331114/1189782130742530088/iiiii.png?ex=659f69f5&is=658cf4f5&hm=684d4fd0582cb9b303f36afd784d77e9829f9cf4d8e4118082ffac99a7934ec7& -->
 
   ![Imagem Interface Web.png](https://scontent.fpoa46-1.fna.fbcdn.net/v/t39.30808-6/415223925_5288449824612629_6114542788959521541_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=3635dc&_nc_ohc=GQW3Qj4Ga6QAX_KDaPO&_nc_ht=scontent.fpoa46-1.fna&oh=00_AfAoD9-w-4AIGVfuryFFWMWI1DDGbfmY7qEusrzO5au2Rw&oe=65E04B10)    
 
@@ -64,7 +64,10 @@ https://github.com/GittServer/Gitt_Server/assets/104231713/0aeb565e-f1ce-4b59-8c
 - [Bots para Discord](https://www.google.com/search?client=firefox-b-d&q=bot+discord+o+que+%C3%A9): Tenho atualmente mais de 13 Bots para Discord criados, alguns foram vendidos, sendo os principais esses da imagem abaixo:
  
 <!-- Fiz o upload dessa imagem dos Bots no chat do instagram: Lucas Ávila. -->
-![Imagem Meus Bots.png](https://scontent.xx.fbcdn.net/v/t1.15752-9/403415199_703866808352495_2547764637067737709_n.png?stp=dst-png_p403x403&_nc_cat=107&ccb=1-7&_nc_sid=510075&_nc_ohc=vXt-0yq-rIkAX9Hv3kv&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQ3RnUBBjN27_k7fflqW2-SCSgfVw-N_91OI5kr1ZJkfQ&oe=65D7FF62)    
+<!-- OU fiz o upload dessa img dos Bots nas imagens do meu facebook, link abaixo: USANDO -->
+<!-- https://scontent.fpoa46-1.fna.fbcdn.net/v/t39.30808-6/414012530_5288289807961964_262230620681058175_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=3635dc&_nc_ohc=cykVwJk8gmQAX8RBMdA&_nc_ht=scontent.fpoa46-1.fna&oh=00_AfCGqpG7PIcfhIhjdt42ITpo54i7wDbJWQEtm-e8H-rvGA&oe=65E02F37 -->
+
+![Imagem Meus Bots.png](https://scontent.fpoa46-1.fna.fbcdn.net/v/t39.30808-6/414012530_5288289807961964_262230620681058175_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=3635dc&_nc_ohc=cykVwJk8gmQAX8RBMdA&_nc_ht=scontent.fpoa46-1.fna&oh=00_AfCGqpG7PIcfhIhjdt42ITpo54i7wDbJWQEtm-e8H-rvGA&oe=65E02F37)    
 
 [](https://www.facebook.com/lucas.avila.507/photos_by) [](https://imagem.dos.meus.bots.salva.no.link.facebook.com)
 
