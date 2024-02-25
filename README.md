@@ -33,7 +33,9 @@
 
 <!-- # -->
 <p>
+      
 #
+
 <!-- Link das imagens SVG: https://devicon.dev/ -->
 <img align="right" alt="Lucas-C++" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 
