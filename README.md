@@ -52,9 +52,7 @@
 <!-- Imagem baixada desse site: https://icons8.com.br/icon/Zh3EQfzwFUbT/desenvolvimento-back-end -->
 <img align="left" alt="Lucas-Dev" height="100" width="110" src="https://cdn.fbsbx.com/v/t59.2708-21/429919591_721072233532971_5215210425774726742_n.gif?_nc_cat=106&ccb=1-7&_nc_sid=cf94fc&_nc_ohc=N-ddJn3_G2EAX9fMbTI&_nc_ht=cdn.fbsbx.com&oh=03_AdQjmqVeTs2oIKXMnzgslLfBUmBa9PvyOugY1RNoGPERKA&oe=65DC8B66" />
 </p>
-</div>
 
-<div>
 <p>
 <!-- LINK DE ONDE TIREI OS BOTOES: https://dev.to/envoy_/150-badges-for-github-pnk -->
 
