@@ -52,11 +52,15 @@
 <!-- Imagem baixada desse site: https://icons8.com.br/icon/Zh3EQfzwFUbT/desenvolvimento-back-end -->
 <img align="left" alt="Lucas-Dev" height="100" width="110" src="https://cdn.fbsbx.com/v/t59.2708-21/429919591_721072233532971_5215210425774726742_n.gif?_nc_cat=106&ccb=1-7&_nc_sid=cf94fc&_nc_ohc=N-ddJn3_G2EAX9fMbTI&_nc_ht=cdn.fbsbx.com&oh=03_AdQjmqVeTs2oIKXMnzgslLfBUmBa9PvyOugY1RNoGPERKA&oe=65DC8B66" />
 </p>
+
 <BR><BR><BR><BR><BR><BR><BR><BR>
 <p>
 
 # REDES:      
 <!-- LINK DE ONDE TIREI OS BOTOES: https://dev.to/envoy_/150-badges-for-github-pnk -->
+
+<a href="https://github.com/GittServer/Gitt_Server#readme" target="_blank">
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 
 <a href="https://github.com/GittServer/Gitt_Server#readme" target="_blank">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
@@ -72,9 +76,6 @@
 
 <a href="https://github.com/GittServer/Gitt_Server#readme" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-<a href="https://github.com/GittServer/Gitt_Server#readme" target="_blank">
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 
 </p>
 </div>
