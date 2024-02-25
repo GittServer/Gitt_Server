@@ -34,7 +34,7 @@
 <!-- # -->
 <p>
 <!-- Link das imagens SVG: https://devicon.dev/ -->
-<img align="left" alt="LUCAS-FOTO-PERFIL" height="200" width="210" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="LUCAS-FOTO-PERFIL" height="200" width="200" src="https://c.disquscdn.com/uploads/users/12138/4881/avatar200.jpg?1706076534" />
 
 <!-- Link das imagens SVG: https://devicon.dev/ -->
 <img align="right" alt="Lucas-C++" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
