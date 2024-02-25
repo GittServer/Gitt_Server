@@ -41,7 +41,7 @@
 
 <!-- Link da imagem Gif de Eletronica retirado desse site: https://br.pinterest.com/pin/27795722686643027/ --> 
 <img align="left" alt="Lucas-Eletronica" height="100" width="110" src="https://i.pinimg.com/originals/c4/a7/3f/c4a73fb5afc450cb3ecd2325c7c46af6.gif" />
-
+X
 <!-- Link da imagem retirado desse site: https://icons8.com.br/icon/24459/webhook -->
 <img align="left" alt="Lucas-Webhook" width="110" height="100" src="https://img.icons8.com/color/100/webhook.png" />
 
