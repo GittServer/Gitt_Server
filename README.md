@@ -45,9 +45,10 @@
 <!-- Link da imagem retirado desse site: https://icons8.com.br/icon/24459/webhook -->
 <img align="left" alt="Lucas-Webhook" width="110" height="100" src="https://img.icons8.com/color/100/webhook.png" />
 
-<!-- Link da imagem salva no meu chat: https://www.instagram.com/direct/t/109247043799776/ -->
+<!-- Link da imagem salva no meu chat: https://www.instagram.com/direct/t/109247043799776/
+COPIAR LINK DA ENGRENAGEM E COLAR AQUI -->
 <!-- Imagem baixada desse site: https://icons8.com.br/icon/Zh3EQfzwFUbT/desenvolvimento-back-end -->
-<img align="left" alt="Lucas-Dev" height="100" width="110" src="https://cdn.fbsbx.com/v/t59.2708-21/429919591_721072233532971_5215210425774726742_n.gif?_nc_cat=106&ccb=1-7&_nc_sid=cf94fc&_nc_ohc=N-ddJn3_G2EAX9fMbTI&_nc_ht=cdn.fbsbx.com&oh=03_AdQjmqVeTs2oIKXMnzgslLfBUmBa9PvyOugY1RNoGPERKA&oe=65DC8B66" />
+<img align="left" alt="Lucas-Dev-Engrenagem" height="100" width="110" src="https://cdn.fbsbx.com/v/t59.2708-21/429919591_721072233532971_5215210425774726742_n.gif?_nc_cat=106&ccb=1-7&_nc_sid=cf94fc&_nc_ohc=9fSCD0z0nQ8AX85zSgY&_nc_ht=cdn.fbsbx.com&oh=03_AdRBQXW0LHrs8SqsMKuK5v7Dt5RQkvvbMxGsc2NW9DTTZA&oe=65E9BA66" />
 
 <!-- Link da imagem retirada do Google -->
 <img align="left" alt="Lucas-IA_Automação" height="100" width="110" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQxTuKxl7id6-TQt5GAB1jWeEnXW557CuKng&usqp=CAU" />
