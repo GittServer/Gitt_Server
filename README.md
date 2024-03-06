@@ -26,7 +26,7 @@
 <img align="left" alt="Lucas-Php" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /> 
 
 <!-- Link DEV WEB Fiz o upload dela nas imagens do meu Facebook LINK ABAIXO - USANDO  -->
-<img align="left" alt="Lucas-DevWeb" height="100" width="110" src="https://scontent.fpoa46-1.fna.fbcdn.net/v/t39.30808-6/429591444_5501037263353883_917184381182899874_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=524774&_nc_ohc=y7eYDa11cq8AX9xtzOC&_nc_ht=scontent.fpoa46-1.fna&oh=00_AfCVS60O0LW6jgwPoxCmnfwEpzXsTKvMdx4RuC9KaqZCHA&oe=65E0A229" />
+<img align="left" alt="Lucas-DevWeb" height="100" width="110" src="https://www.facebook.com/photo.php?fbid=5501037273353882&set=p.5501037273353882&type=3" />
 
 <!-- Link NO CODE Fiz o upload dela nas imagens do meu Facebook LINK ABAIXO - USANDO  -->
 <img align="left" alt="Lucas-NoCode" height="100" width="110" src="https://scontent.fpoa46-1.fna.fbcdn.net/v/t39.30808-6/409090433_5501083533349256_2352517957852043306_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=524774&_nc_ohc=rokenzAw1lIAX8flM9r&_nc_ht=scontent.fpoa46-1.fna&oh=00_AfAm0KJOlqCXGRJSAv64CnHA_N6cJ-JuF8FZlvO0aNqBZg&oe=65DFB2D1" />
