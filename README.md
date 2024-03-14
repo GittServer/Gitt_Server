@@ -145,12 +145,9 @@ Imagem: Interface Web.png
  
 <!-- Fiz o upload dessa imagem dos Bots no chat do instagram: Lucas Ávila. -->
 <!-- OU fiz o upload dessa img dos Bots nas imagens do meu facebook, link abaixo: USANDO -->
-<!-- https://scontent.fpoa46-1.fna.fbcdn.net/v/t39.30808-6/414012530_5288289807961964_262230620681058175_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=3635dc&_nc_ohc=cykVwJk8gmQAX8RBMdA&_nc_ht=scontent.fpoa46-1.fna&oh=00_AfCGqpG7PIcfhIhjdt42ITpo54i7wDbJWQEtm-e8H-rvGA&oe=65E02F37 -->
 
 Imagem: Meus Bots.png
-![Imagem Meus Bots.png](https://scontent.fpoa46-1.fna.fbcdn.net/v/t39.30808-6/414012530_5288289807961964_262230620681058175_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=3635dc&_nc_ohc=cykVwJk8gmQAX8RBMdA&_nc_ht=scontent.fpoa46-1.fna&oh=00_AfCGqpG7PIcfhIhjdt42ITpo54i7wDbJWQEtm-e8H-rvGA&oe=65E02F37)    
-
-[](https://www.facebook.com/lucas.avila.507/photos_by) [](https://imagem.dos.meus.bots.salva.no.link.facebook.com)
+![Imagem Meus Bots.png](https://scontent.xx.fbcdn.net/v/t1.15752-9/403415199_703866808352495_2547764637067737709_n.png?stp=dst-png_p403x403&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=B5FC7_p8ShcAX-dW9dB&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdSKBuPq1tSrSzHARgng2mKY1SOzBbRYHh2_SRC1yQJwpg&oe=6619EA62)    
 
 ## Bot Karen-IA:
 - [Bot Karen-IA](https://eletro-tech-shop.vercel.app/#karen): A Karen é um assistente que atualmente está disponível em nosso servidor discord.
