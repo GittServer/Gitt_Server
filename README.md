@@ -28,8 +28,10 @@
 <!-- Link DEV WEB Fiz o upload dela nas imagens do meu Facebook LINK ABAIXO - USANDO  -->
 <img align="left" alt="Lucas-DevWeb" height="100" width="110" src="https://scontent.fpoa46-1.fna.fbcdn.net/v/t39.30808-6/429591444_5501037263353883_917184381182899874_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=hoyWU3BYuWYAX8SeUFE&_nc_ht=scontent.fpoa46-1.fna&oh=00_AfCQnm-FTokRRvchYJhY9EUeMP7Dk78LTAr_-BYVfVpPYg&oe=65EC7FA9" />
 
-<!-- Link NO CODE Fiz o upload dela nas imagens do meu Facebook LINK ABAIXO - USANDO  -->
-<img align="left" alt="Lucas-NoCode" height="100" width="110" src="https://scontent.fpoa46-1.fna.fbcdn.net/v/t39.30808-6/409090433_5501083533349256_2352517957852043306_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=524774&_nc_ohc=rokenzAw1lIAX8flM9r&_nc_ht=scontent.fpoa46-1.fna&oh=00_AfAm0KJOlqCXGRJSAv64CnHA_N6cJ-JuF8FZlvO0aNqBZg&oe=65DFB2D1" />
+<!-- Link NO CODE Fiz o upload dela nas imagens do meu Facebook -->
+<!-- Link da imagem NO CODE salva no meu chat tbm: https://www.instagram.com/direct/t/109247043799776/
+COPIAR LINK DA IMAGEM NO CODE E COLAR ABAIXO - USANDO -->
+<img align="left" alt="Lucas-NoCode" height="100" width="110" src="https://scontent.xx.fbcdn.net/v/t1.15752-9/431493581_286192934371231_106459484927250649_n.jpg?stp=dst-jpg_p403x403&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=QboMEjyyk5MAX_LDjMP&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQxRxv28tsdKwgW6ojGUehwtcQ-sopdNiXxSMYrPordvw&oe=6619F335" />
 
 <!-- # -->
 <p>    
