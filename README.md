@@ -232,7 +232,7 @@ _generated with [Platane/link perfil](https://github.com/Platane/Platane/blob/ma
 <a href="https://github.com/GittServer/Gitt_Server#readme"> <!-- Link do meu perfil do github -->
 
 <!-- GittServer - rafaballerini USANDO - fuma-nama -->    
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&custom_title=Lucas_Github-Stats&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fuma-nama&custom_title=Lucas_Github-Stats&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
 
 <!-- stats-dev - fuma-nama - EckigerLuca (https://github.com/EckigerLuca) -->    
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=20&theme=transparent"/>    
