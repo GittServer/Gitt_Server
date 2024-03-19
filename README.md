@@ -133,7 +133,7 @@ https://github.com/GittServer/Gitt_Server/assets/104231713/0aeb565e-f1ce-4b59-8c
 <!-- Link antigo postado no chat do discord, parou de funcionar: https://cdn.discordapp.com/attachments/1035003165491331114/1189782130742530088/iiiii.png?ex=659f69f5&is=658cf4f5&hm=684d4fd0582cb9b303f36afd784d77e9829f9cf4d8e4118082ffac99a7934ec7& -->
 
 Imagem: Interface Web.png
-  ![Imagem Interface Web.png](https://www.facebook.com/photo/?fbid=5288449837945961&set=a.194592280665101)    
+  ![Imagem Interface Web.png](https://scontent.fpoa46-1.fna.fbcdn.net/v/t39.30808-6/415223925_5288449824612629_6114542788959521541_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=QD82rUcRiV4AX-NAvUi&_nc_ht=scontent.fpoa46-1.fna&oh=00_AfC4fX_2rsfWg9ld0dQeK4TK0hUQbl39C2Dw9M_PlxBkNQ&oe=65FFEF10)    
 
   [](https://discord.com/channels/1035003165042556989/1035003165491331114/1189782130922881124) [](https://imagem.interface.web.salva.no.link.facebook.discord.com)
   ``` Digite aqui... mic / lista / red ```
@@ -147,7 +147,7 @@ Imagem: Interface Web.png
 <!-- OU fiz o upload dessa img dos Bots nas imagens do meu facebook, link abaixo: USANDO -->
 
 Imagem: Meus Bots.png
-![Imagem Meus Bots.png](https://scontent.xx.fbcdn.net/v/t1.15752-9/403415199_703866808352495_2547764637067737709_n.png?stp=dst-png_p403x403&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=B5FC7_p8ShcAX-dW9dB&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdSKBuPq1tSrSzHARgng2mKY1SOzBbRYHh2_SRC1yQJwpg&oe=6619EA62)    
+  ![Imagem Meus Bots.png](https://scontent.xx.fbcdn.net/v/t1.15752-9/403415199_703866808352495_2547764637067737709_n.png?stp=dst-png_p403x403&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=B5FC7_p8ShcAX-dW9dB&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdSKBuPq1tSrSzHARgng2mKY1SOzBbRYHh2_SRC1yQJwpg&oe=6619EA62)    
 
 ## Bot Karen-IA:
 - [Bot Karen-IA](https://eletro-tech-shop.vercel.app/#karen): A Karen é um assistente que atualmente está disponível em nosso servidor discord.
