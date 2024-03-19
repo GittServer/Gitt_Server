@@ -128,12 +128,12 @@ https://github.com/GittServer/Gitt_Server/assets/104231713/0aeb565e-f1ce-4b59-8c
   - [Interface Web v2.0 - Automação Residencial (Login!)](https://rede-externa.bubbleapps.io/version-test/home-login)
 
 <!-- Fiz o upload dessa imagem da Interface Web nas imagens do meu Facebook LINK ABAIXO - USANDO -->
-<!-- https://scontent.fpoa46-1.fna.fbcdn.net/v/t39.30808-6/429653985_5500259863431623_7202550091131735388_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=noQLj5vXTkIAX-KxULd&_nc_ht=scontent.fpoa46-1.fna&oh=00_AfA9HHYCoizieyC_c_AYCTd7Jkt2GIaZ8FxQDM-ES6xPLg&oe=65E96BA4 -->
+<!-- https://www.facebook.com/photo/?fbid=5288449837945961&set=a.194592280665101 -->
 
-<!-- Link antigo do discord, parou de funcionar: https://cdn.discordapp.com/attachments/1035003165491331114/1189782130742530088/iiiii.png?ex=659f69f5&is=658cf4f5&hm=684d4fd0582cb9b303f36afd784d77e9829f9cf4d8e4118082ffac99a7934ec7& -->
+<!-- Link antigo postado no chat do discord, parou de funcionar: https://cdn.discordapp.com/attachments/1035003165491331114/1189782130742530088/iiiii.png?ex=659f69f5&is=658cf4f5&hm=684d4fd0582cb9b303f36afd784d77e9829f9cf4d8e4118082ffac99a7934ec7& -->
 
 Imagem: Interface Web.png
-  ![Imagem Interface Web.png](https://scontent.fpoa46-1.fna.fbcdn.net/v/t39.30808-6/429653985_5500259863431623_7202550091131735388_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=noQLj5vXTkIAX-KxULd&_nc_ht=scontent.fpoa46-1.fna&oh=00_AfA9HHYCoizieyC_c_AYCTd7Jkt2GIaZ8FxQDM-ES6xPLg&oe=65E96BA4)    
+  ![Imagem Interface Web.png](https://www.facebook.com/photo/?fbid=5288449837945961&set=a.194592280665101)    
 
   [](https://discord.com/channels/1035003165042556989/1035003165491331114/1189782130922881124) [](https://imagem.interface.web.salva.no.link.facebook.discord.com)
   ``` Digite aqui... mic / lista / red ```
@@ -186,6 +186,7 @@ Com esse bot você e os usuários do seu Discord poderão fazer perguntas e pesq
 
 - [Este GitHub - Perfil](https://github.com/GittServer/Gitt_Server#readme) 
 - [ayo.so/lucas_avila](https://ayo.so/lucas_avila)
+- [🔑 API KEYS: openai.com](https://openai.com/)
 - [💬 Facebook Page - Atirador de Teia Brasil](https://facebook.com/adtbr.web.shooter.project)
 - [💬 Messenger - Atirador de Teia Brasil](https://m.me/adtbr.web.shooter.project)
 - [💬 Youtube - Atirador de Teia Brasil](https://www.youtube.com/channel/UCno6xFnMhesQarJX6qEOqpg) + 15 mil inscritos!
