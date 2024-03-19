@@ -128,7 +128,7 @@ https://github.com/GittServer/Gitt_Server/assets/104231713/0aeb565e-f1ce-4b59-8c
   - [Interface Web v2.0 - Automação Residencial (Login!)](https://rede-externa.bubbleapps.io/version-test/home-login)
 
 <!-- Fiz o upload dessa imagem da Interface Web nas imagens do meu Facebook LINK ABAIXO - USANDO -->
-<!-- https://www.facebook.com/photo/?fbid=5288449837945961&set=a.194592280665101 -->
+<!-- LINK DA POSTAGEM: https://www.facebook.com/photo/?fbid=5288449837945961&set=a.194592280665101 -->
 
 <!-- Link antigo postado no chat do discord, parou de funcionar: https://cdn.discordapp.com/attachments/1035003165491331114/1189782130742530088/iiiii.png?ex=659f69f5&is=658cf4f5&hm=684d4fd0582cb9b303f36afd784d77e9829f9cf4d8e4118082ffac99a7934ec7& -->
 
@@ -147,6 +147,7 @@ Imagem: Interface Web.png
 <!-- OU fiz o upload dessa img dos Bots nas imagens do meu facebook, link abaixo: USANDO -->
 
 Imagem: Meus Bots.png
+<BR>
   ![Imagem Meus Bots.png](https://scontent.xx.fbcdn.net/v/t1.15752-9/403415199_703866808352495_2547764637067737709_n.png?stp=dst-png_p403x403&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=B5FC7_p8ShcAX-dW9dB&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdSKBuPq1tSrSzHARgng2mKY1SOzBbRYHh2_SRC1yQJwpg&oe=6619EA62)    
 
 ## Bot Karen-IA:
