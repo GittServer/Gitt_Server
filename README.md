@@ -188,6 +188,7 @@ Com esse bot você e os usuários do seu Discord poderão fazer perguntas e pesq
 - [Este GitHub - Perfil](https://github.com/GittServer/Gitt_Server#readme) 
 - [ayo.so/lucas_avila](https://ayo.so/lucas_avila)
 - [🔑 API KEYS: openai.com](https://openai.com/)
+- [MQTT PubSub Online](https://testclient-cloud.mqtt.cool/)
 - [💬 Facebook Page - Atirador de Teia Brasil](https://facebook.com/adtbr.web.shooter.project)
 - [💬 Messenger - Atirador de Teia Brasil](https://m.me/adtbr.web.shooter.project)
 - [💬 Youtube - Atirador de Teia Brasil](https://www.youtube.com/channel/UCno6xFnMhesQarJX6qEOqpg) + 15 mil inscritos!
