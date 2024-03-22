@@ -25,7 +25,7 @@
 <img align="left" alt="Lucas-Py" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 <img align="left" alt="Lucas-Php" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /> 
 
-![Dev_Web](https://github.com/GittServer/Gitt_Server/assets/104231713/0bcb9e7c-22e6-43f6-81d3-39c2d7d19013)
+![Dev_Web](https://github.com/GittServer/Gitt_Server/assets/104231713/0bcb9e7c-22e6-43f6-81d3-39c2d7d19013 height="100" width="110")
 <!-- Link DEV WEB Fiz o upload dela nas imagens do meu Facebook LINK ABAIXO - USANDO  -->
 <!-- ADD ESSE COMENTARIO NA IMAGEM QUE USA LINK
 <img align="left" alt="Lucas-DevWeb" height="100" width="110" src="https://scontent.fpoa46-1.fna.fbcdn.net/v/t39.30808-6/429591444_5501037263353883_917184381182899874_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=hoyWU3BYuWYAX8SeUFE&_nc_ht=scontent.fpoa46-1.fna&oh=00_AfCQnm-FTokRRvchYJhY9EUeMP7Dk78LTAr_-BYVfVpPYg&oe=65EC7FA9" />
