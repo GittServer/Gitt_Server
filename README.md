@@ -5,7 +5,7 @@
     
 <body>   
 
-# Lucas Ávila - Perfil de Desenvolvedor
+# Lucas Ávila - Perfil de Desenvolvedor - [#](https://github.com/GittServer/Gitt_Server#readme) 
 
 <!-- Fiz o upload dessa imagem de perfil no chat do instagram: Lucas Ávila. LINK ABAIXO -->
 <!-- https://scontent.xx.fbcdn.net/v/t1.15752-9/403404043_1700758940430084_3421224352020879432_n.jpg?stp=dst-jpg_s403x403&_nc_cat=110&ccb=1-7&_nc_sid=510075&_nc_ohc=1cftMy_IC5YAX9huduu&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdRhe25rFFrj6BmGPkVLTCMs3wtxW58BcB762QVITH2PzQ&oe=65D811D6 -->
@@ -244,7 +244,7 @@ _generated with [Platane/link perfil](https://github.com/Platane/Platane/blob/ma
 <a href="https://github.com/GittServer/Gitt_Server#readme"> <!-- Link do meu perfil do github -->
 
 <!-- GittServer - rafaballerini PAROU DE FUNCIONAR - fuma-nama USANDO -->    
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&custom_title=Lucas_Github-Stats&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fuma-nama&custom_title=Lucas_Github-Stats&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
 
 <!-- rafaballerini USANDO - stats-dev - fuma-nama - EckigerLuca (https://github.com/EckigerLuca) -->    
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=20&theme=transparent"/>    
