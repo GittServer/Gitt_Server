@@ -35,7 +35,8 @@ ADD ESSE COMENTARIO NA IMAGEM QUE USA LINK -->
 <!-- Link NO CODE Fiz o upload dela nas imagens do meu Facebook -->
 <!-- Link da imagem NO CODE salva no meu chat tbm: https://www.instagram.com/direct/t/109247043799776/
 COPIAR LINK DA IMAGEM NO CODE E COLAR ABAIXO - USANDO -->
-<img align="left" alt="Lucas-NoCode" height="100" width="110" src="https://scontent.xx.fbcdn.net/v/t1.15752-9/431493581_286192934371231_106459484927250649_n.jpg?stp=dst-jpg_p403x403&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=QboMEjyyk5MAX_LDjMP&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQxRxv28tsdKwgW6ojGUehwtcQ-sopdNiXxSMYrPordvw&oe=6619F335" />
+<!-- DEIXEI ELE DESATIVADO POIS FICA SEMPRE OFFLINE! -->
+<!-- <img align="left" alt="Lucas-NoCode" height="100" width="110" src="https://scontent.xx.fbcdn.net/v/t1.15752-9/431493581_286192934371231_106459484927250649_n.jpg?stp=dst-jpg_p403x403&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=QboMEjyyk5MAX_LDjMP&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQxRxv28tsdKwgW6ojGUehwtcQ-sopdNiXxSMYrPordvw&oe=6619F335" /> -->
 
 <!-- # -->
 <p>    
