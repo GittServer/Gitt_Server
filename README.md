@@ -105,6 +105,7 @@ Atualmente, estou focado em aprimorar minhas habilidades em CSS, Python & Criaç
 - Linguagens de Programação: JS, C++, PHP, Python.
 - Banco de Dados: SQL (phpMyAdmin).
 - Controle de Versão: Git.
+- Desenvolvimento de Bots para PC, Discord & WhatsApp.
 ```
 ## Projetos Destacados:
 
