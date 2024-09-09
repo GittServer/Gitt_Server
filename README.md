@@ -149,7 +149,7 @@ ADD ESSE COMENTARIO NA IMAGEM QUE USA LINK -->
   > - ## Novas funções sendo atualizadas em breve...
   
 ## Mais Projetos:
-- [Bots para Discord](https://www.google.com/search?client=firefox-b-d&q=bot+discord+o+que+%C3%A9): Tenho atualmente mais de 13 Bots para Discord criados, alguns foram vendidos, sendo os principais esses da imagem abaixo:
+- [Bots para Discord](https://www.google.com/search?client=firefox-b-d&q=bot+discord+o+que+%C3%A9): Tenho atualmente mais de 32 Bots para Discord criados, alguns foram vendidos, sendo os principais esses da imagem abaixo:
  
 <!-- Fiz o upload dessa imagem dos Bots no chat do instagram: Lucas Ávila. -->
 <!-- OU fiz o upload dessa img dos Bots nas imagens do meu facebook, link abaixo: USANDO -->
