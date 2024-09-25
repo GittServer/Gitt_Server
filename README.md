@@ -106,6 +106,7 @@ Atualmente, estou focado em aprimorar minhas habilidades em CSS, Python & Criaç
 - Banco de Dados: SQL (phpMyAdmin).
 - Controle de Versão: Git.
 - Desenvolvimento de Bots para PC, Discord & WhatsApp.
+- Criação de Apps Mobile & programas pra Desktop PC.
 ```
 ## Projetos Destacados:
 
