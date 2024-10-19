@@ -55,12 +55,13 @@ COPIAR LINK DA IMAGEM NO CODE E COLAR ABAIXO - USANDO -->
 <!-- Link da imagem retirada do Google -->
 <img align="left" alt="Lucas-IA_Automação" height="100" width="110" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQxTuKxl7id6-TQt5GAB1jWeEnXW557CuKng&usqp=CAU" />
 
+<!-- Imagem baixada desse site: https://stock.adobe.com/br/search?k=web.2.0&asset_id=57279129 -->
+<img align="left" alt="Lucas-Interface-2.0" height="100" width="110" src="https://t3.ftcdn.net/jpg/00/49/24/40/360_F_49244036_2YJTiEMPjT2teFLIOcf40Dws13fRtgcl.jpg" />
+
 <!-- Link da imagem salva no meu chat: https://www.instagram.com/direct/t/109247043799776/
 COPIAR LINK DA ENGRENAGEM E COLAR AQUI -->
 <!-- Imagem baixada desse site: https://icons8.com.br/icon/Zh3EQfzwFUbT/desenvolvimento-back-end -->
 <img align="left" alt="Lucas-Dev-Engrenagem" height="100" width="110" src="https://cdn.fbsbx.com/v/t59.2708-21/429919591_721072233532971_5215210425774726742_n.gif?_nc_cat=106&ccb=1-7&_nc_sid=cf94fc&_nc_ohc=vB7Rk5Q8ducAX9Po-ch&_nc_ht=cdn.fbsbx.com&oh=03_AdTzwZZ-WFkdvz60NtJ0TcvzgqqX1VGCLhYDaVruQlDGLA&oe=65F44666" />
-
-<img align="left" alt="Lucas-Interface-2.0" height="100" width="110" src="https://t3.ftcdn.net/jpg/00/49/24/40/360_F_49244036_2YJTiEMPjT2teFLIOcf40Dws13fRtgcl.jpg" />
 
 </p>
 
