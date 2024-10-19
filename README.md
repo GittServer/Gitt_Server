@@ -62,8 +62,6 @@ COPIAR LINK DA ENGRENAGEM E COLAR AQUI -->
 
 <img align="left" alt="Lucas-Interface-2.0" height="100" width="110" src="https://t3.ftcdn.net/jpg/00/49/24/40/360_F_49244036_2YJTiEMPjT2teFLIOcf40Dws13fRtgcl.jpg" />
 
-![YY 360_F_49244036_2YJTiEMPjT2teFLIOcf40Dws13fRtgcl](https://github.com/user-attachments/assets/683aee28-10da-4d34-b551-2c5a5add2fa6)
-
 </p>
 
 <BR><BR><BR><BR><BR><BR><BR><BR>
