@@ -60,7 +60,7 @@ COPIAR LINK DA ENGRENAGEM E COLAR AQUI -->
 <!-- Imagem baixada desse site: https://icons8.com.br/icon/Zh3EQfzwFUbT/desenvolvimento-back-end -->
 <img align="left" alt="Lucas-Dev-Engrenagem" height="100" width="110" src="https://cdn.fbsbx.com/v/t59.2708-21/429919591_721072233532971_5215210425774726742_n.gif?_nc_cat=106&ccb=1-7&_nc_sid=cf94fc&_nc_ohc=vB7Rk5Q8ducAX9Po-ch&_nc_ht=cdn.fbsbx.com&oh=03_AdTzwZZ-WFkdvz60NtJ0TcvzgqqX1VGCLhYDaVruQlDGLA&oe=65F44666" />
 
-![YY 360_F_49244036_2YJTiEMPjT2teFLIOcf40Dws13fRtgcl](https://github.com/user-attachments/assets/683aee28-10da-4d34-b551-2c5a5add2fa6)
+![YY 360_F_49244036_2YJTiEMPjT2teFLIOcf40Dws13fRtgcl](height="100" width="110")(https://github.com/user-attachments/assets/683aee28-10da-4d34-b551-2c5a5add2fa6)
 
 </p>
 
