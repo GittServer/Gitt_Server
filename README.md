@@ -151,13 +151,15 @@ Imagem: Interface Web.png
 ADD ESSE COMENTARIO NA IMAGEM QUE USA LINK -->
   [](https://discord.com/channels/1035003165042556989/1035003165491331114/1189782130922881124) [](https://imagem.interface.web.salva.no.link.facebook.discord.com)
 <BR>
+<!-- DIV - DAS INTERFACES -->
+<div style="display: inline_block">
 <p>
 <img align="left" alt="Interface Web Imagens" height="100" width="110" src="https://cdn.fbsbx.com/v/t59.2708-21/429919591_721072233532971_5215210425774726742_n.gif?_nc_cat=106&ccb=1-7&_nc_sid=cf94fc&_nc_ohc=vB7Rk5Q8ducAX9Po-ch&_nc_ht=cdn.fbsbx.com&oh=03_AdTzwZZ-WFkdvz60NtJ0TcvzgqqX1VGCLhYDaVruQlDGLA&oe=65F44666" />
 
 <img align="left" alt="Interface Web Imagens" height="100" width="110" src="https://cdn.fbsbx.com/v/t59.2708-21/429919591_721072233532971_5215210425774726742_n.gif?_nc_cat=106&ccb=1-7&_nc_sid=cf94fc&_nc_ohc=vB7Rk5Q8ducAX9Po-ch&_nc_ht=cdn.fbsbx.com&oh=03_AdTzwZZ-WFkdvz60NtJ0TcvzgqqX1VGCLhYDaVruQlDGLA&oe=65F44666" />
 
 <img align="left" alt="Interface Web Imagens" height="100" width="110" src="https://cdn.fbsbx.com/v/t59.2708-21/429919591_721072233532971_5215210425774726742_n.gif?_nc_cat=106&ccb=1-7&_nc_sid=cf94fc&_nc_ohc=vB7Rk5Q8ducAX9Po-ch&_nc_ht=cdn.fbsbx.com&oh=03_AdTzwZZ-WFkdvz60NtJ0TcvzgqqX1VGCLhYDaVruQlDGLA&oe=65F44666" />  
-</p>
+</p></div>
 
   ``` Digite aqui... mic / lista / red ```
   > [!NOTE]
