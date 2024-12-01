@@ -150,7 +150,8 @@ Imagem: Interface Web.png
   ![Imagem Interface Web.png](https://scontent.fpoa46-1.fna.fbcdn.net/v/t39.30808-6/415223925_5288449824612629_6114542788959521541_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=QD82rUcRiV4AX-NAvUi&_nc_ht=scontent.fpoa46-1.fna&oh=00_AfC4fX_2rsfWg9ld0dQeK4TK0hUQbl39C2Dw9M_PlxBkNQ&oe=65FFEF10)    
 ADD ESSE COMENTARIO NA IMAGEM QUE USA LINK -->
   [](https://discord.com/channels/1035003165042556989/1035003165491331114/1189782130922881124) [](https://imagem.interface.web.salva.no.link.facebook.discord.com)
-<BR>
+<BR><BR><BR><BR><BR><BR><BR><BR>
+##
 <!-- DIV - DAS INTERFACES -->
 <div style="display: inline_block">
 <p>
