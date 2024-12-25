@@ -151,7 +151,7 @@ Imagem: Interface Web.png
 ADD ESSE COMENTARIO NA IMAGEM QUE USA LINK -->
   [](https://discord.com/channels/1035003165042556989/1035003165491331114/1189782130922881124) [](https://imagem.interface.web.salva.no.link.facebook.discord.com)
 
-<!-- ADD
+<p>
 #############################################
 
 <!-- DIV - ICONES DAS LINGUAGENS -->
@@ -176,6 +176,7 @@ COPIAR LINK DA IMAGEM NO CODE E COLAR ABAIXO - USANDO -->
 <!-- DEIXEI ELE DESATIVADO POIS FICA SEMPRE OFFLINE! -->
 <!-- <img align="left" alt="Lucas-NoCode" height="100" width="110" src="https://scontent.xx.fbcdn.net/v/t1.15752-9/431493581_286192934371231_106459484927250649_n.jpg?stp=dst-jpg_p403x403&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=QboMEjyyk5MAX_LDjMP&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQxRxv28tsdKwgW6ojGUehwtcQ-sopdNiXxSMYrPordvw&oe=6619F335" /> -->
 
+</p>
 <!-- # -->
 <p>    
 <!-- Link das imagens SVG: https://devicon.dev/ -->
@@ -202,9 +203,7 @@ COPIAR LINK DA ENGRENAGEM E COLAR AQUI -->
 <img align="left" alt="Lucas-Dev-Engrenagem" height="100" width="110" src="https://cdn.fbsbx.com/v/t59.2708-21/429919591_721072233532971_5215210425774726742_n.gif?_nc_cat=106&ccb=1-7&_nc_sid=cf94fc&_nc_ohc=vB7Rk5Q8ducAX9Po-ch&_nc_ht=cdn.fbsbx.com&oh=03_AdTzwZZ-WFkdvz60NtJ0TcvzgqqX1VGCLhYDaVruQlDGLA&oe=65F44666" />
 
 </p>
-<p>
 #############################################
-<BR>
 
   ``` Digite aqui... mic / lista / red ```
   > [!NOTE]
