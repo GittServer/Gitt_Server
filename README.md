@@ -150,60 +150,7 @@ Imagem: Interface Web.png
   ![Imagem Interface Web.png](https://scontent.fpoa46-1.fna.fbcdn.net/v/t39.30808-6/415223925_5288449824612629_6114542788959521541_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=QD82rUcRiV4AX-NAvUi&_nc_ht=scontent.fpoa46-1.fna&oh=00_AfC4fX_2rsfWg9ld0dQeK4TK0hUQbl39C2Dw9M_PlxBkNQ&oe=65FFEF10)    
 ADD ESSE COMENTARIO NA IMAGEM QUE USA LINK -->
   [](https://discord.com/channels/1035003165042556989/1035003165491331114/1189782130922881124) [](https://imagem.interface.web.salva.no.link.facebook.discord.com)
-
-<p>
-#############################################
-
-<!-- DIV - ICONES DAS LINGUAGENS -->
-<div style="display: inline_block">
-
-<!-- ICONES DAS LINGUAGENS - Link das imagens SVG: https://devicon.dev/ -->
-<img align="left" alt="Lucas-Html" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" /> 
-<img align="left" alt="Lucas-Js" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> 
-<img align="left" alt="Lucas-Py" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-<img align="left" alt="Lucas-Php" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /> 
-
-<!-- FIZ UPLOAD DA IMG NO TAMANHO DE 100x110 ABAIXO USANDO -->
-![Dev_Web](https://github.com/GittServer/Gitt_Server/assets/104231713/8cc8ec7f-1829-476f-9c37-c504e06ccedd)
-<!-- Link DEV WEB Fiz o upload dela nas imagens do meu Facebook LINK ABAIXO -->
-<!-- ADD ESSE COMENTARIO NA IMAGEM QUE USA LINK
-<img align="left" alt="Lucas-DevWeb" height="100" width="110" src="https://scontent.fpoa46-1.fna.fbcdn.net/v/t39.30808-6/429591444_5501037263353883_917184381182899874_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=hoyWU3BYuWYAX8SeUFE&_nc_ht=scontent.fpoa46-1.fna&oh=00_AfCQnm-FTokRRvchYJhY9EUeMP7Dk78LTAr_-BYVfVpPYg&oe=65EC7FA9" />
-ADD ESSE COMENTARIO NA IMAGEM QUE USA LINK -->
-
-<!-- Link NO CODE Fiz o upload dela nas imagens do meu Facebook -->
-<!-- Link da imagem NO CODE salva no meu chat tbm: https://www.instagram.com/direct/t/109247043799776/
-COPIAR LINK DA IMAGEM NO CODE E COLAR ABAIXO - USANDO -->
-<!-- DEIXEI ELE DESATIVADO POIS FICA SEMPRE OFFLINE! -->
-<!-- <img align="left" alt="Lucas-NoCode" height="100" width="110" src="https://scontent.xx.fbcdn.net/v/t1.15752-9/431493581_286192934371231_106459484927250649_n.jpg?stp=dst-jpg_p403x403&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=QboMEjyyk5MAX_LDjMP&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQxRxv28tsdKwgW6ojGUehwtcQ-sopdNiXxSMYrPordvw&oe=6619F335" /> -->
-
-</p>
-<!-- # -->
-<p>    
-<!-- Link das imagens SVG: https://devicon.dev/ -->
-<img align="left" alt="Lucas-C++" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-
-<!-- Link desse gif de Bot retirado desse site: https://tenor.com/pt-BR/view/joinblink-blink-blink-bot-blink-app-the-blink-gif-15839692 -->
-<img align="left" alt="Lucas-DevBot" height="100" width="110" src="https://media1.tenor.com/m/hE0T8D0GpXsAAAAC/joinblink-blink.gif" />
-
-<!-- Link da imagem Gif de Eletronica retirado desse site: https://br.pinterest.com/pin/27795722686643027/ --> 
-<img align="left" alt="Lucas-Eletronica" height="100" width="110" src="https://i.pinimg.com/originals/c4/a7/3f/c4a73fb5afc450cb3ecd2325c7c46af6.gif" />
-
-<!-- Link da imagem retirado desse site: https://icons8.com.br/icon/24459/webhook -->
-<img align="left" alt="Lucas-Webhook" width="110" height="100" src="https://img.icons8.com/color/100/webhook.png" />
-
-<!-- Link da imagem retirada do Google -->
-<img align="left" alt="Lucas-IA_Automação" height="100" width="110" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQxTuKxl7id6-TQt5GAB1jWeEnXW557CuKng&usqp=CAU" />
-
-<!-- Imagem baixada desse site: https://stock.adobe.com/br/search?k=web.2.0&asset_id=57279129 -->
-<img align="left" alt="Lucas-Interface-2.0" height="100" width="110" src="https://t3.ftcdn.net/jpg/00/49/24/40/360_F_49244036_2YJTiEMPjT2teFLIOcf40Dws13fRtgcl.jpg" />
-
-<!-- Link da imagem salva no meu chat: https://www.instagram.com/direct/t/109247043799776/
-COPIAR LINK DA ENGRENAGEM E COLAR AQUI -->
-<!-- Imagem baixada desse site: https://icons8.com.br/icon/Zh3EQfzwFUbT/desenvolvimento-back-end -->
-<img align="left" alt="Lucas-Dev-Engrenagem" height="100" width="110" src="https://cdn.fbsbx.com/v/t59.2708-21/429919591_721072233532971_5215210425774726742_n.gif?_nc_cat=106&ccb=1-7&_nc_sid=cf94fc&_nc_ohc=vB7Rk5Q8ducAX9Po-ch&_nc_ht=cdn.fbsbx.com&oh=03_AdTzwZZ-WFkdvz60NtJ0TcvzgqqX1VGCLhYDaVruQlDGLA&oe=65F44666" />
-
-</p>
-#############################################
+  
 
   ``` Digite aqui... mic / lista / red ```
   > [!NOTE]
