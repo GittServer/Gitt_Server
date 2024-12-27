@@ -139,9 +139,9 @@ https://github.com/GittServer/Gitt_Server/assets/104231713/0aeb565e-f1ce-4b59-8c
   
   - [Veja aqui vídeos da Karen-IA em funcionamento!](https://www.facebook.com/share/p/1Asua8sdSg/)
 <video controls poster="demo.jpg">
-  <source src="https://www.facebook.com/share/v/17GDTuhKMR/" type="video/mp4">
+  <source src="https://www.facebook.com/100057140124573/videos/pcb.1053264269921567/1591398501483937" type="video/mp4">
   <object>
-    <embed src="https://www.facebook.com/share/v/17GDTuhKMR/" type="application/x-shockwave-flash" 
+    <embed src="https://www.facebook.com/100057140124573/videos/pcb.1053264269921567/1591398501483937" type="application/x-shockwave-flash" 
     allowfullscreen="false" allowscriptaccess="always">  		
   </object>
   Formato não suportado  
