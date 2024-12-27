@@ -138,14 +138,7 @@ https://github.com/GittServer/Gitt_Server/assets/104231713/0aeb565e-f1ce-4b59-8c
   - `Agora ela pode até ler em voz alta, textos mostrados/enviados a ela.`
   
   - [Veja aqui vídeos da Karen-IA em funcionamento!](https://www.facebook.com/share/p/1Asua8sdSg/)
-<video controls poster="demo.jpg">
-  <source src="https://www.facebook.com/100057140124573/videos/pcb.1053264269921567/1591398501483937" type="video/mp4">
-  <object>
-    <embed src="https://www.facebook.com/100057140124573/videos/pcb.1053264269921567/1591398501483937" type="application/x-shockwave-flash" 
-    allowfullscreen="false" allowscriptaccess="always">  		
-  </object>
-  Formato não suportado  
-</video>
+<video>  <source src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4" type="video/mp4"></video>
   
   - ✅ Tudo isso é controlado através de uma Interface Web simplificada [veja imagem](https://scontent.fpoa46-1.fna.fbcdn.net/v/t39.30808-6/429641844_5500261816764761_6216731607328102450_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=4AcymKqw-KwAX8LSTR_&_nc_ht=scontent.fpoa46-1.fna&oh=00_AfDtd2IGzKers-OoLCh4uDLV_SeYfUaySYdcU4t5vtzlUw&oe=65DF098E), ou uma Interface Web mais complexa [veja imagem](https://scontent.fpoa46-1.fna.fbcdn.net/v/t39.30808-6/415223925_5288449824612629_6114542788959521541_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=3635dc&_nc_ohc=GQW3Qj4Ga6QAX_KDaPO&_nc_ht=scontent.fpoa46-1.fna&oh=00_AfAoD9-w-4AIGVfuryFFWMWI1DDGbfmY7qEusrzO5au2Rw&oe=65E04B10), onde você pode usar botões e/ou comandos de voz para controlar o sistema.
   - [Interface Web v2.0 - Automação Residencial (Login!)](https://rede-externa.bubbleapps.io/version-test/home-login)
