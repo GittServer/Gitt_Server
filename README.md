@@ -130,7 +130,7 @@ https://github.com/GittServer/Gitt_Server/assets/104231713/0aeb565e-f1ce-4b59-8c
 <!-- Fiz o upload arrastando video.mp4 aqui na pagina. -->
 
   ## Karen-IA Funções:
- 👩 Atualmente todo o sistema incluindo circuitos eletrônicos, sensores e atualdores da `Karen-IA` estão localizados dentro da [Mochila de Energia](https://www.facebook.com/share/p/1Asua8sdSg/) que estou desenvolvendo. [Veja fotos e vídeos aqui](https://www.facebook.com/share/p/1Asua8sdSg/)
+ 👩 Atualmente todo o sistema incluindo circuitos eletrônicos, sensores e atuadores da `Karen-IA` estão localizados dentro da [Mochila de Energia](https://www.facebook.com/share/p/1Asua8sdSg/) que estou desenvolvendo. [Veja fotos e vídeos aqui](https://www.facebook.com/share/p/1Asua8sdSg/)
   - ✅ Auxiliar em decisões tomadas enquanto você está ocupado ou fora de casa, por exemplo: quando escurecer, a [Karen-IA](https://www.youtube.com/channel/UCno6xFnMhesQarJX6qEOqpg) liga as luzes e fecha as cortinas de casa.
   - ✅ Com a Karen é possivel controlar sua automação de qualquer lugar do mundo (*com internet), usando um sofisticado sistema que desenvolvemos com uma tecnologia chamada AIW - Anywhere In World (de qualquer lugar do mundo).
   - ✅ Veja exemplos em meu canal do [Youtube](https://www.youtube.com/channel/UCno6xFnMhesQarJX6qEOqpg) onde mostro a [Karen-IA](https://www.youtube.com/channel/UCno6xFnMhesQarJX6qEOqpg) fazendo o controle de minha Automação Residencial pessoal, em minha casa, nos vídeos aparece ela ligando e desligando luzes, TV, ventiladores, ar condicionado e muito mais.
