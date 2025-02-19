@@ -216,6 +216,7 @@ Com esse bot você e os usuários do seu Discord poderão fazer perguntas e pesq
 - [🔑 API KEYS: openai.com](https://openai.com/)
 - [✅ MQTT PubSub Online - https://testclient-cloud.mqtt.cool/](https://testclient-cloud.mqtt.cool/)
 - [✅ MQTT Chat Demo](https://demos.mqtt.cool/chat/)
+- [✅ MQTT MEUS SITES + MAPA GPS](https://www.facebook.com/photo.php?fbid=6913707568753505&set=pb.100003429902276.-2207520000&type=3)
 - [SDK do cliente da Web +Exemplos](https://mqtt.cool/download/web-client-sdk-2-0-0/)
 - [💬 Facebook Page - Atirador de Teia Brasil](https://facebook.com/adtbr.web.shooter.project)
 - [💬 Messenger - Atirador de Teia Brasil](https://m.me/adtbr.web.shooter.project)
