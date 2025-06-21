@@ -144,6 +144,10 @@ https://github.com/GittServer/Gitt_Server/assets/104231713/0aeb565e-f1ce-4b59-8c
   - [Veja aqui vídeos da Karen-IA em funcionamento!](https://www.facebook.com/share/p/1Asua8sdSg/)
   
   - ✅ Tudo isso é controlado através de uma Interface Web simplificada [veja imagem](https://scontent.fpoa46-1.fna.fbcdn.net/v/t39.30808-6/429641844_5500261816764761_6216731607328102450_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=4AcymKqw-KwAX8LSTR_&_nc_ht=scontent.fpoa46-1.fna&oh=00_AfDtd2IGzKers-OoLCh4uDLV_SeYfUaySYdcU4t5vtzlUw&oe=65DF098E), ou uma Interface Web mais complexa [veja imagem](https://scontent.fpoa46-1.fna.fbcdn.net/v/t39.30808-6/415223925_5288449824612629_6114542788959521541_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=3635dc&_nc_ohc=GQW3Qj4Ga6QAX_KDaPO&_nc_ht=scontent.fpoa46-1.fna&oh=00_AfAoD9-w-4AIGVfuryFFWMWI1DDGbfmY7qEusrzO5au2Rw&oe=65E04B10), onde você pode usar botões e/ou comandos de voz para controlar o sistema.
+  - [Interface Web Atual (versão 2025)](https://eletro-tech-shop.elementfx.com/Proj_Sistema_Login_2025/login.php)
+
+Imagem: Interface Web 2025.png
+
   - [Interface Web v2.0 - Automação Residencial (Login!)](https://rede-externa.bubbleapps.io/version-test/home-login)
 
 <!-- Fiz o upload dessa imagem da Interface Web nas imagens do meu Facebook LINK ABAIXO - USANDO -->
