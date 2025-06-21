@@ -151,14 +151,14 @@ Imagem: Interface Web 2025.png
 ![Login kjkjkjkj](https://github.com/user-attachments/assets/c33b8d62-b09b-4a63-96db-0685860f2a8e)
 
 
-  - [Interface Web v2.0 - Automação Residencial (Login!)](https://rede-externa.bubbleapps.io/version-test/home-login)
+  - [Interface Web v2.0 - Automação Residencial (versão antiga)](https://rede-externa.bubbleapps.io/version-test/home-login)
 
 <!-- Fiz o upload dessa imagem da Interface Web nas imagens do meu Facebook LINK ABAIXO - USANDO -->
 <!-- LINK DA POSTAGEM: https://www.facebook.com/photo/?fbid=5288449837945961&set=a.194592280665101 -->
 
 <!-- Link antigo postado no chat do discord, parou de funcionar: https://cdn.discordapp.com/attachments/1035003165491331114/1189782130742530088/iiiii.png?ex=659f69f5&is=658cf4f5&hm=684d4fd0582cb9b303f36afd784d77e9829f9cf4d8e4118082ffac99a7934ec7& -->
 
-Imagem: Interface Web.png
+Imagem: Interface Web.png (antiga)
 ![Interface_Web](https://github.com/GittServer/Gitt_Server/assets/104231713/66fcb0d7-4d4d-49f6-a52e-bfb81d88c438)
 <!-- ADD ESSE COMENTARIO NA IMAGEM QUE USA LINK
   ![Imagem Interface Web.png](https://scontent.fpoa46-1.fna.fbcdn.net/v/t39.30808-6/415223925_5288449824612629_6114542788959521541_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=QD82rUcRiV4AX-NAvUi&_nc_ht=scontent.fpoa46-1.fna&oh=00_AfC4fX_2rsfWg9ld0dQeK4TK0hUQbl39C2Dw9M_PlxBkNQ&oe=65FFEF10)    
