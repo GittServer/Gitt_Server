@@ -146,8 +146,9 @@ https://github.com/GittServer/Gitt_Server/assets/104231713/0aeb565e-f1ce-4b59-8c
   - ✅ Tudo isso é controlado através de uma Interface Web onde você pode usar botões e/ou comandos de voz para controlar o sistema.
   - [Interface Web Atual (versão 2025)](https://eletro-tech-shop.elementfx.com/Proj_Sistema_Login_2025/login.php)
 
-Imagem: Interface Web 2025.png
+Imagem: Interface Web 2025.png 
 ![Login kjkjkjkj](https://github.com/user-attachments/assets/c33b8d62-b09b-4a63-96db-0685860f2a8e)
+
 
   - [Interface Web v2.0 - Automação Residencial (Login!)](https://rede-externa.bubbleapps.io/version-test/home-login)
 
