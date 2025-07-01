@@ -166,7 +166,7 @@ ADD ESSE COMENTARIO NA IMAGEM QUE USA LINK -->
   [](https://discord.com/channels/1035003165042556989/1035003165491331114/1189782130922881124) [](https://imagem.interface.web.salva.no.link.facebook.discord.com)
   
 
-  ``` Digite aqui... mic / lista / red ```
+  ``` Digite aqui... mic / lista / red - broker.emqx.io 188300 ```
   > [!NOTE]
   > - ## Novas funções sendo atualizadas em breve...
   
