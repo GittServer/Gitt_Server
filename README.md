@@ -136,10 +136,10 @@ https://github.com/GittServer/Gitt_Server/assets/104231713/0aeb565e-f1ce-4b59-8c
   - ✅ Veja exemplos em meu canal do [Youtube](https://www.youtube.com/channel/UCno6xFnMhesQarJX6qEOqpg) onde mostro a [Karen-IA](https://www.youtube.com/channel/UCno6xFnMhesQarJX6qEOqpg) fazendo o controle de minha Automação Residencial pessoal, em minha casa, nos vídeos aparece ela ligando e desligando luzes, TV, ventiladores, ar condicionado e muito mais.
   - `Você deve se perguntar, mas e aí Lucas, sua IA só liga e desliga as coisas. Ela só sabe fazer isso? E a resposta é não, ela pode fazer muito mais.`
   - ✅ Bem, como eu dizia, ela pode fazer o controle e a leitura dos sensores ligados em sua Automação Residencial, obtendo os valores e fazendo o tratamento dos dados, armazenando os diretamente em seu DB.
-  - ✅ Após obter os dados e informações, ela envia tudo diretamente para seu DB - Banco de Dados Online. Com isso ela pode acessar o valor da temperatura de sua casa por exemplo, dizendo quantos graus estava a temperatura em tal horário. Ela pode também armazenar dados em sua memória DB quando cada aparelho que ela gerencia/controla foi ligado ou desligado, tornando assim seu sistema de memória mais eficiente.
-  - ✅ Podendo lhe auxiliar em questões matemáticas, lhe falando, as horas, qual é o dia da semana, data atual, lhe falando qual o clima e buscando informações diretamente na internet, respondendo a perguntas, etc.
-  - ✅ `E o mais incrível é que agora dia (02/11/24) eu acabei de adicionar na Karen-IA a habilidade de ver as coisas, usando Visão Computacional.`
-  - `Agora ela pode até ler em voz alta, textos mostrados/enviados a ela.`
+  - ✅👉 Após obter os dados e informações, ela envia tudo diretamente para o seu DB - Banco de Dados Online. Com isso ela pode acessar os valores das temperaturas de sua casa por exemplo, `dizendo quantos graus estava a temperatura em tal horário`. Ela pode também armazenar dados em sua memória DB quando cada aparelho que ela gerencia/controla foi ligado ou desligado, tornando assim seu sistema de memória mais eficiente.
+  - ✅ Podendo lhe auxiliar em questões matemáticas, lhe falando também as horas, qual é o dia da semana, a data atual, lhe dizendo qual o clima e buscando informações diretamente na internet, respondendo a perguntas, etc.
+  - ✅ `E o mais incrível é que agora dia (02/11/24) eu acabei de adicionar na Karen-IA a habilidade pra ela ver as coisas, usando Visão Computacional.`
+  - `Agora ela pode até ler em voz alta, textos mostrados ou enviados a ela.`
   
   - [Veja aqui vídeos da Karen-IA em funcionamento!](https://www.facebook.com/share/p/1Asua8sdSg/)
   
