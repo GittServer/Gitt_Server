@@ -141,7 +141,10 @@ https://github.com/GittServer/Gitt_Server/assets/104231713/0aeb565e-f1ce-4b59-8c
   - ✅ `E o mais incrível é que agora dia (02/11/24) eu acabei de adicionar na Karen-IA a habilidade pra ela ver as coisas, usando Visão Computacional.`
   - `Agora ela pode até ler em voz alta, textos mostrados ou enviados a ela.`
   
-  - [Veja aqui vídeos da Karen-IA em funcionamento!](https://www.facebook.com/share/p/1Asua8sdSg/)
+  - [Veja aqui nesse LINK, vídeos da Karen-IA em funcionamento!](https://www.facebook.com/share/p/1Asua8sdSg/)
+  
+  - video novo
+  <!-- Fiz o upload arrastando video.mp4 aqui na pagina. -->
   
   - ✅ Tudo isso é controlado através de uma Interface Web onde você pode usar botões e/ou comandos de voz para controlar o sistema.
   - [Interface Web Atual (versão 2025)](https://eletro-tech-shop.elementfx.com/Proj_Sistema_Login_2025/login.php)
