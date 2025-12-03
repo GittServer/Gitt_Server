@@ -170,7 +170,7 @@ ADD ESSE COMENTARIO NA IMAGEM QUE USA LINK -->
   > [!NOTE]
   > - ## Novas funções sendo atualizadas em breve...
 
->   - # ======================================================= #
+>   - ==================================
 >   - ## Me Encontre Online:
 
 - [Este GitHub - Perfil](https://github.com/GittServer/Gitt_Server#readme) 
