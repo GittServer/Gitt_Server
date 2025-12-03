@@ -127,7 +127,7 @@ Atualmente, estou focado em aprimorar minhas habilidades em CSS, Python & Criaç
 - [Karen-Intel. Artificial](https://www.youtube.com/channel/UCno6xFnMhesQarJX6qEOqpg): Esta é a mais nova [IA](https://pt.wikipedia.org/wiki/Intelig%C3%AAncia_artificial#) (Inteligência Artificial) que estou desenvolvendo e como sua principal função temos a de Gerenciar e Controlar nossas Automações Residenciais, como se fosse uma espécie de [JARVIS](https://pt.wikipedia.org/wiki/J.A.R.V.I.S.#) do Homem de Ferro.
    
 https://github.com/GittServer/Gitt_Server/assets/104231713/0aeb565e-f1ce-4b59-8cbf-901e5bfd8add
-<!-- Fiz o upload arrastando video.mp4 aqui na pagina. -->
+<!-- Fiz o upload arrastando video.mp4 aqui na pagina. (tem que ser menor q 10MB) -->
 
  👩 Atualmente todo o sistema incluindo circuitos eletrônicos, sensores e atuadores da `Karen-IA` estão localizados dentro da [Mochila de Energia](https://www.facebook.com/share/p/1Asua8sdSg/) que estou desenvolvendo. [Veja fotos e vídeos aqui](https://www.facebook.com/share/p/1Asua8sdSg/)
   ## Karen-IA Funções:
@@ -142,9 +142,6 @@ https://github.com/GittServer/Gitt_Server/assets/104231713/0aeb565e-f1ce-4b59-8c
   - `Agora ela pode até ler em voz alta, textos mostrados ou enviados a ela.`
   
   - [Veja aqui nesse LINK, vídeos da Karen-IA em funcionamento!](https://www.facebook.com/share/p/1Asua8sdSg/)
-  
-  - video novo
-  <!-- Fiz o upload arrastando video.mp4 aqui na pagina. -->
   
   - ✅ Tudo isso é controlado através de uma Interface Web onde você pode usar botões e/ou comandos de voz para controlar o sistema.
   - [Interface Web Atual (versão 2025)](https://eletro-tech-shop.elementfx.com/Proj_Sistema_Login_2025/login.php)
